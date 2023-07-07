@@ -1,2 +1,2 @@
 [build]
-  command = "npm install --legacy-peer-deps"
+  command = "npx install --legacy-peer-deps"
