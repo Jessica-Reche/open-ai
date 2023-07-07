@@ -12,11 +12,15 @@ export function Chat() {
         if (endOfMessagesRef.current) {
             endOfMessagesRef.current.scrollIntoView({ behavior: 'smooth' });
         }
-    }, [messages,input]);
+    }, [messages, input]);
 
     return (
         <div className='flex flex-col h-[500px] max-w-xl px-8 mx-auto overflow-auto'>
+            <div className='text-3xl text-yellow-500'>
+                <h1>Tarot IA</h1>
+            </div>
             {messages.length > 0 ?
+
                 messages.map((message, index) => {
                     const isTarotist = message.role !== 'user';
                     const isLastMessage = index === messages.length - 1;
