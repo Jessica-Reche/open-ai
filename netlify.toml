@@ -1,3 +1,2 @@
 [build]
-  command = "npm ci"
-  publish = ".next"
+  command = "npm install --legacy-peer-deps"
