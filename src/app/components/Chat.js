@@ -19,8 +19,8 @@ export function Chat() {
             <div className='text-3xl text-yellow-500'>
                 <h1>Tarot IA</h1>
             </div>
+            
             {messages.length > 0 ?
-
                 messages.map((message, index) => {
                     const isTarotist = message.role !== 'user';
                     const isLastMessage = index === messages.length - 1;
