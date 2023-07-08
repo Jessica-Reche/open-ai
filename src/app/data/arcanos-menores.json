@@ -1,0 +1,1599 @@
+{
+    "as_de_bastos": {
+        "numero": "1",
+        "nombre": "As de Bastos",
+        "normal": [
+            "Aférrate a tu deseo.",
+            "Mantén tu propósito en mente.",
+            "Comienza a actuar ahora.",
+            "Avanza rápidamente y con decisión.",
+            "Declara lo que quieres.",
+            "Toma el mando.",
+            "Síguele el rastro a tu pasión.",
+            "Motívate pensando en lo que puedes ganar si te involucras.",
+            "Da un primer paso.",
+            "Haz esa llamada o envía ese mensaje.",
+            "Motiva a los demás con tu entusiasmo. Comparte con ellos tu visión."
+        ],
+        "invertida": [
+            "No actúes, espera.",
+            "Afina bien tu puntería antes de lanzar la flecha.",
+            "Piensa en lo que quieres hacer y siente si realmente deseas hacerlo.",
+            "Revisa tus intenciones, endereza tu propósito.",
+            "No impongas tu voluntad.",
+            "Posterga la ejecución de tus planes, no es momento para emprender.",
+            "Evalúa y ajusta tu nivel de entusiasmo. Es probable que quieras desistir a mitad de camino.",
+            "No hagas caso a tus impulsos ahora.",
+            "Devuélvete, retrocede.",
+            "Cede la oportunidad a otros."
+        ]
+    },
+    "dos_de_bastos": {
+        "numero": "2",
+        "nombre": "Dos de Bastos",
+        "normal": [
+            "Evalúa bien tus opciones antes de decidir. Considera los pros y los contras de cada una de ellas.",
+            "Visualiza los posibles futuros de emprender y de no emprender.",
+            "¿Qué quieres obtener?",
+            "¿Qué quieres evitar?",
+            "¿Qué quieres conservar?",
+            "¿Qué quieres eliminar?",
+            "Reúne y organiza tus recursos.",
+            "Capacítate, investiga, viaja, haz lo necesario para prepararte.",
+            "Fortalece tus vínculos y alianzas.",
+            "Planifica para enfrentar todas las eventualidades posibles.",
+            "No precipites una decisión."
+        ],
+        "invertida": [
+            "Sal de la indecisión, no esperes más. Ya sabes cuál es la opción correcta.",
+            "Deja que decida quien realmente debe hacerlo.",
+            "Considera alternativas que no has considerado hasta ahora.",
+            "Pon tu atención en lo inmediato, no en el largo plazo.",
+            "Busca una mayor independencia a la hora de decidir."
+        ]
+    },
+    "tres_de_bastos": {
+        "numero": "3",
+        "nombre": "Tres de Bastos",
+        "normal": [
+            "Expándete.",
+            "Entra en nuevos espacios.",
+            "Explora nuevos caminos, abre tu mundo.",
+            "Ve más allá de tus límites conocidos.",
+            "Anímate a abarcar más.",
+            "Embárcate en una aventura, busca tener nuevas experiencias.",
+            "No tengas miedo a fallar. Cada error te aportará conocimiento para seguir avanzando.",
+            "Prueba nuevas maneras de hacer las cosas.",
+            "Permite que tu pasión se despliegue y florezca.",
+            "Toma nota de tus avances.",
+            "Cultiva una mentalidad ganadora.",
+            "Sostén tu propósito, sobre todo cuando lleguen los desafíos.",
+            "Mantén el rumbo.",
+            "Deja que la experiencia te transforme."
+        ],
+        "invertida": [
+            "Aborta misión.",
+            "Detente para reevaluar el camino por donde vas.",
+            "Dale un respiro a la situación.",
+            "Evita agobiar a otros o agobiarte a ti mismo.",
+            "Concentra tus energías, establece prioridades y evita la dispersión.",
+            "Abarca menos para apretar más.",
+            "Consolida lo que has conquistado antes de seguir adelante.",
+            "Descubre qué te detiene de abarcar algo mayor."
+        ]
+    },
+    "cuatro_de_bastos": {
+        "numero": "4",
+        "nombre": "Cuatro de Bastos",
+        "normal": [
+            "Administra bien tu energía para hacerla rendir óptimamente.",
+            "Dale un orden a tus pasiones.",
+            "Establece un sistema productivo que pueda mantenerse en el tiempo.",
+            "Crea un espacio seguro y acogedor.",
+            "Sé un hogar para ti mismo y para los demás.",
+            "Acepta a los demás tal como son y permite que ellos también puedan verte tal como eres.",
+            "Demuestra que eres confiable.",
+            "Fortalece los vínculos entre las personas.",
+            "Reconoce, honra y nutre las cualidades únicas de quienes tienes a tu alrededor.",
+            "Recurre a tu círculo íntimo en busca de apoyo.",
+            "Consolida tu compromiso.",
+            "Celebra tus logros."
+        ],
+        "invertida": [
+            "Deja de alimentar el fuego y ve lo que sucede.",
+            "Toma cierta distancia.",
+            "No confíes al 100%.",
+            "Mantén las relaciones en un tono más bien formal.",
+            "Protege tus espacios íntimos, no dejes entrar a cualquiera.",
+            "Considera reformar tu sistema productivo, cambiarlo por completo o cambiarlo por otro.",
+            "Prepárate para un conflicto inevitable y necesario.",
+            "Sal de tu espacio conocido.",
+            "Vagabundea, tantea nuevos territorios.",
+            "No busques crear estabilidad ahora."
+        ]
+    },
+    "cinco_de_bastos": {
+        "numero": "5",
+        "nombre": "Cinco de Bastos",
+        "normal": [
+            "Considera una a una las posibilidades que se te presentan.",
+            "Escucha todas las voces, tanto las propias como las de otros.",
+            "No impongas una dirección ahora, permite que todas las tendencias se muestren antes de decidir o de llegar a un acuerdo.",
+            "Toma conciencia de las diferencias que te separan de los demás y las diferencias que te unen a ellos.",
+            "Permite que la situación te muestre cuál es tu verdadero propósito.",
+            "Discute con firmeza pero con respeto.",
+            "Tu punto de vista podría necesitar un ajuste, al igualque el de los demás.",
+            "Sé humilde y empático, pero también sincero.",
+            "Compite, no importa si ganas o si pierdes. Esto te permitirá reconocer tus fortalezas y debilidades."
+        ],
+        "invertida": [
+            "Resuelve un conflicto.",
+            "Define de una vez el camino a seguir.",
+            "Comprométete con un propósito claro.",
+            "Deja de dispersar tu energía en demasiados asuntos diferentes.",
+            "No compitas con otros, busca colaborar.",
+            "Concilia, acerca posiciones entre las personas.",
+            "Descansa después de la batalla."
+        ]
+    },
+    "seis_de_bastos": {
+        "numero": "6",
+        "nombre": "Seis de Bastos",
+        "normal": [
+            "Actúa con seguridad.",
+            "Muestra tu valor.",
+            "Apóyate en tus méritos o en tus éxitos anteriores para ganar confianza en ti mismo.",
+            "Lidera a otros. Tienes la experiencia, el carisma y el conocimiento suficientes para hacerlo.",
+            "Reconoce el valor y el mérito en otras personas.",
+            "Sigue a quien te parece digno de ser seguido.",
+            "Alégrate y celebra, has superado importantes desafíos."
+        ],
+        "invertida": [
+            "No cantes victoria todavía, tienes más desafíos por delante.",
+            "No des el éxito por descontado.",
+            "No te duermas en los laureles.",
+            "Revisa si realmente estás capacitado para hacerte cargo. Es probable que no lo estés del todo.",
+            "Evita la arrogancia, la insolencia y la vanidad.",
+            "No sigas a quien no se lo merece, o a quien todavía no conoces bien.",
+            "No esperes que otros te reconozcan o definan tu valor personal."
+        ]
+    },
+    "siete_de_bastos": {
+        "numero": "7",
+        "nombre": "Siete de Bastos",
+        "normal": [
+            "Concéntrate en defender lo que te pertenece.",
+            "Define bien tu territorio.",
+            "Protege tus límites personales, no permitas que nadie los transgreda.",
+            "Enfrenta tus problemas con fuerza y determinación.",
+            "Confía en tus fortalezas.",
+            "No te dejes derribar por la hostilidad de otras personas.",
+            "Utiliza la adversidad como un medio para hacerte más fuerte.",
+            "Date cuenta de que eres más grande que toda la negatividad que te rodea.",
+            "Enfócate en lo urgente.",
+            "Párate desde una posición más elevada para ganar mayor perspectiva."
+        ],
+        "invertida": [
+            "Deja de luchar.",
+            "Acepta que la situación ha superado tus fuerzas.",
+            "Ríndete a la experiencia tal como está siendo.",
+            "Descubre de qué manera tu frustración trae para ti una liberación.",
+            "Identifica la voz de tu enemigo interno y mantenlo a raya.",
+            "Prepárate para un cambio de lugar.",
+            "Descansa y espera a que las condiciones mejoren."
+        ]
+    },
+    "ocho_de_bastos": {
+        "numero": "8",
+        "nombre": "Ocho de Bastos",
+        "normal": [
+            "Actúa con rapidez.",
+            "Toma la oportunidad que se te presenta sin pensarlo demasiado.",
+            "Muévete, acércate a lo que quieres.",
+            "Exprésate y aclara cualquier malentendido.",
+            "Déjate llevar por tu pasión.",
+            "Viaja.",
+            "Despeja tu camino para que la energía pueda fluir y que llegue lo nuevo.",
+            "Aférrate más que nunca a tu verdadero propósito y alinea tus acciones con él."
+        ],
+        "invertida": [
+            "Baja la velocidad o detente por completo.",
+            "Revisa si te falta algo para poder avanzar.",
+            "Reconsidera la dirección que estás tomando.",
+            "No te precipites.",
+            "No entregues tu mensaje todavía, observa y comprende bien las condiciones del momento antes de hacerlo.",
+            "Asume desde ya que las cosas podrían resultar diferentes a cómo tú esperas."
+        ]
+    },
+    "nueve_de_bastos": {
+        "numero": "9",
+        "nombre": "Nueve de Bastos",
+        "normal": [
+            "Persiste en tu esfuerzo.",
+            "Mantén tu enfoque y determinación.",
+            "No te rindas, incluso cuando las cosas se pongan difíciles.",
+            "Sigue adelante a pesar de los obstáculos que encuentres en tu camino.",
+            "Confía en tu capacidad para superar los desafíos.",
+            "Aprovecha tu fuerza interior y tu valentía.",
+            "No permitas que los contratiempos te desvíen de tu objetivo.",
+            "Continúa luchando por lo que crees que es correcto.",
+            "No dejes que las críticas te desmotiven, mantén la confianza en ti mismo.",
+            "Recuerda que cada desafío te brinda la oportunidad de crecer y fortalecerte."
+        ],
+        "invertida": [
+            "Considera si vale la pena seguir luchando por esta causa.",
+            "Evalúa si es el momento adecuado para seguir adelante o si es mejor retroceder.",
+            "Revisa si estás agotando tus recursos en una batalla perdida.",
+            "Reconsidera tus creencias y objetivos, tal vez sea necesario un cambio de dirección.",
+            "Permítete descansar y recuperar fuerzas antes de continuar.",
+            "Acepta que hay cosas que no puedes cambiar y busca la paz en lugar de la lucha constante."
+        ]
+    },
+    "diez_de_bastos": {
+        "numero": "10",
+        "nombre": "Diez de Bastos",
+        "normal": [
+            "Asume la responsabilidad de tus acciones y decisiones.",
+            "Afronta las consecuencias de tus elecciones.",
+            "Acepta que has llegado al límite de tu carga.",
+            "Reconoce tus límites y no tengas miedo de pedir ayuda.",
+            "Delega tareas y comparte responsabilidades.",
+            "No lleves más peso del que puedes soportar.",
+            "Reorganiza tus prioridades y deshazte de lo innecesario.",
+            "Busca equilibrio y bienestar en tu vida.",
+            "Libérate de la carga excesiva para poder avanzar más liviano."
+        ],
+        "invertida": [
+            "Reconoce que estás llevando demasiado peso sobre tus hombros.",
+            "No te sobrecargues de responsabilidades.",
+            "Deja que otros se hagan cargo de su parte.",
+            "No te sientas culpable por no poder cumplir con todas las expectativas.",
+            "Busca apoyo y ayuda para aliviar tu carga.",
+            "Evalúa qué tareas o responsabilidades puedes eliminar o delegar.",
+            "Acepta que no puedes hacerlo todo y establece límites saludables.",
+            "Permite que otros te ayuden y comparte la carga con ellos."
+        ]
+    },
+    "sota_de_bastos": {
+        "numero": "11",
+        "nombre": "Sota de Bastos",
+        "normal": [
+            "Confía en tu creatividad y en tu potencial.",
+            "Reconoce y cultiva tus talentos y habilidades únicas.",
+            "Muestra tu pasión y entusiasmo en todo lo que haces.",
+            "Asume nuevos proyectos y desafíos con confianza.",
+            "Sé valiente y arriesgado en la búsqueda de tus metas.",
+            "Mantén una actitud de juego y exploración.",
+            "Confía en tu capacidad para manifestar tus deseos en el mundo.",
+            "Exprésate libremente y sin miedo.",
+            "Aprovecha las oportunidades que se te presenten para crecer y aprender.",
+            "Confía en tu intuición y en tu sabiduría interna."
+        ],
+        "invertida": [
+            "Revisa si estás limitando tu creatividad y tu potencial.",
+            "Explora nuevos enfoques y perspectivas.",
+            "Libérate de la autoexigencia y del perfeccionismo.",
+            "No tengas miedo de expresarte y mostrar tus talentos.",
+            "Acepta que puedes cometer errores y aprender de ellos.",
+            "Confía en que tienes la capacidad de manifestar tus deseos en el mundo.",
+            "No permitas que el miedo te paralice y te impida tomar acción.",
+            "Reconoce y supera los bloqueos que te impiden expresarte plenamente."
+        ]
+    },
+    "caballo_de_bastos": {
+        "numero": "12",
+        "nombre": "Caballo de Bastos",
+        "normal": [
+            "Actúa con energía y pasión.",
+            "Mantén tu impulso y motivación en tus proyectos.",
+            "Avanza con determinación hacia tus metas.",
+            "No tengas miedo de tomar riesgos calculados.",
+            "Muestra tu coraje y valentía.",
+            "Sé aventurero y dispuesto a explorar nuevas posibilidades.",
+            "Confía en tu intuición y en tu instinto para tomar decisiones.",
+            "Aprovecha las oportunidades que se te presenten en tu camino.",
+            "Mantén una mentalidad abierta y flexible.",
+            "Busca experiencias que te desafíen y te permitan crecer.",
+            "No te detengas ante los obstáculos, busca soluciones y sigue adelante."
+        ],
+        "invertida": [
+            "Revisa si estás perdiendo tu energía y motivación.",
+            "Evalúa si estás tomando demasiados riesgos sin una base sólida.",
+            "No te precipites en tus decisiones, tómate tu tiempo para evaluar todas las opciones.",
+            "No permitas que el miedo te paralice y te impida avanzar.",
+            "Cuida tu salud física y mental, evita el agotamiento.",
+            "No te cierres a nuevas posibilidades, mantén una mente abierta.",
+            "Enfrenta los obstáculos con paciencia y determinación.",
+            "Busca el equilibrio entre la acción impulsiva y la reflexión estratégica."
+        ]
+    },
+    "reina_de_bastos": {
+        "numero": "13",
+        "nombre": "Reina de Bastos",
+        "normal": [
+            "Confía en tu poder y en tu fuerza interna.",
+            "Muestra tu liderazgo y toma el control de tu vida.",
+            "Sé apasionada y creativa en todo lo que haces.",
+            "Inspira a los demás con tu presencia y tu entusiasmo.",
+            "Mantén una actitud optimista y positiva.",
+            "Confía en tu intuición y en tu sabiduría interna para tomar decisiones.",
+            "Cultiva tu autoexpresión y compartetu voz con el mundo.",
+            "Aprovecha tu influencia para hacer cambios positivos en tu entorno.",
+            "Mantén una mentalidad abierta y flexible.",
+            "Busca el equilibrio entre el cuidado de los demás y el cuidado de ti misma.",
+            "Celebra tu poder y tu capacidad para manifestar tus deseos."
+        ],
+        "invertida": [
+            "Revisa si estás dejando que otros tomen el control de tu vida.",
+            "Recuerda que eres la única responsable de tu propia felicidad y éxito.",
+            "No permitas que el miedo o la duda te impidan expresarte plenamente.",
+            "No dejes que la negatividad de los demás te afecte.",
+            "Evalúa si estás utilizando tu influencia de manera positiva o manipuladora.",
+            "Confía en tu intuición y en tu sabiduría interna para tomar decisiones.",
+            "No te olvides de cuidarte a ti misma mientras cuidas de los demás.",
+            "Reconoce y supera los bloqueos que te impiden manifestar tu poder interno."
+        ]
+    },
+    "rey_de_bastos": {
+        "numero": "14",
+        "nombre": "Rey de Bastos",
+        "normal": [
+            "Muestra tu liderazgo y autoridad en tu vida y en tus proyectos.",
+            "Confía en tu intuición y en tu sabiduría interna.",
+            "Actúa con determinación y valentía.",
+            "Inspira a los demás con tu pasión y entusiasmo.",
+            "Mantén una actitud optimista y positiva.",
+            "Aprovecha tu creatividad y tu ingenio para resolver problemas.",
+            "Utiliza tu influencia para hacer cambios positivos en tu entorno.",
+            "Mantén una visión clara de tus metas y toma decisiones estratégicas para alcanzarlas.",
+            "Acepta el desafío y asume la responsabilidad de liderar y guiar a otros."
+        ],
+        "invertida": [
+            "Revisa si estás utilizando tu poder y autoridad de manera responsable.",
+            "Evalúa si estás tomando decisiones impulsivas o precipitadas.",
+            "No permitas que el ego y la arrogancia te nublen la visión.",
+            "Mantén una mente abierta y dispuesta a escuchar a los demás.",
+            "No impongas tus ideas y opiniones sin considerar otras perspectivas.",
+            "Reconoce y supera los bloqueos que te impiden manifestar tu liderazgo.",
+            "No te desanimes ante los desafíos, busca soluciones creativas y estratégicas.",
+            "Acepta que no tienes el control total y aprende a delegar responsabilidades."
+        ]
+    },
+    "as_de_copas": {
+        "numero": "1",
+        "nombre": "As de Copas",
+        "normal": [
+            "Aférrate a tu deseo.",
+            "Mantén tu propósito en mente.",
+            "Comienza a actuar ahora.",
+            "Avanza rápidamente y con decisión.",
+            "Declara lo que quieres.",
+            "Toma el mando.",
+            "Síguele el rastro a tu pasión.",
+            "Motívate pensando en lo que puedes ganar si te involucras.",
+            "Da un primer paso.",
+            "Haz esa llamada o envía ese mensaje.",
+            "Motiva a los demás con tu entusiasmo. Comparte con ellos tu visión."
+        ],
+        "invertida": [
+            "No actúes, espera.",
+            "Afina bien tu puntería antes de lanzar la flecha.",
+            "Piensa en lo que quieres hacer y siente si realmente deseas hacerlo.",
+            "Revisa tus intenciones, endereza tu propósito.",
+            "No impongas tu voluntad.",
+            "Posterga la ejecución de tus planes, no es momento para emprender.",
+            "Evalúa y ajusta tu nivel de entusiasmo. Es probable que quieras desistir a mitad de camino.",
+            "No hagas caso a tus impulsos ahora.",
+            "Devuélvete, retrocede.",
+            "Cede la oportunidad a otros."
+        ]
+    },
+    "dos_de_copas": {
+        "numero": "2",
+        "nombre": "Dos de Copas",
+        "normal": [
+            "Únete con quien comparta tu sentir.",
+            "Establece un compromiso desde el corazón.",
+            "Ama plenamente.",
+            "Asóciate con quien desee lo mismo que tú y tenga cualidades complementarias a las tuyas.",
+            "Cuida el aspecto emocional de tus vínculos.",
+            "Formaliza una relación sentimental.",
+            "Sé un compañero impecable.",
+            "Alimenta la confianza mutua día tras día.",
+            "Cásate con una actividad que te haga pleno sentido.",
+            "Descubre la dimensión espiritual de la sexualidad."
+        ],
+        "invertida": [
+            "Desvincúlate.",
+            "Disuelve un compromiso.",
+            "Pon tu atención en aquello que te separa del otro.",
+            "Ábrete a conocer nuevas personas.",
+            "No te hagas parte del asunto.",
+            "No te asocies.",
+            "Fortalece tu sentido de individualidad.",
+            "Deja de alimentar algo que ya no te hace sentido."
+        ]
+    },
+    "tres_de_copas": {
+        "numero": "3",
+        "nombre": "Tres de Copas",
+        "normal": [
+            "Disfruta, conecta con el placer de manera creativa.",
+            "Encuentra un motivo para celebrar.",
+            "Reconoce y honra el valor de lo que has logrado por tu propio esfuerzo.",
+            "Alégrate junto a otros.",
+            "Agradece la presencia y el apoyo de tus seres queridos.",
+            "Pide ayuda a tus amigos o a personas que simpatizan contigo.",
+            "Ofrece tu amistad y tu apoyo emocional a otros.",
+            "Sal de tu casa, haz más vida social.",
+            "Cultiva la alegría.",
+            "Busca maneras de distenderte y despreocuparte."
+        ],
+        "invertida": [
+            "No cuentes con el apoyo de otros, actúa por tu cuenta.",
+            "Evita generar un vínculo emocional, o dilúyelo si éste ya existe.",
+            "No celebres antes de tiempo.",
+            "No expreses tu alegría ni tu entusiasmo. Tu entorno no te acompaña.",
+            "Acepta una desilusión.",
+            "Toma una actitud más práctica y realista.",
+            "Toma conciencia de los puntos de desencuentro entre tú y los demás.",
+            "Recógete en ti mismo."
+        ]
+    },
+    "cuatro_de_copas": {
+        "numero": "4",
+        "nombre": "Cuatro de Copas",
+        "normal": [
+            "Modera tus emociones.",
+            "No te ilusiones demás.",
+            "Reflexiona en cómo te sientes realmente.",
+            "Observa qué cosas estás dando por sentadas en tu vida.",
+            "Asume tu aburrimiento o cansancio y comprende por qué los estás experimentando.",
+            "Sé un poco más egoísta, recuerda que tú también necesitas ser estimulado y nutrido.",
+            "Acepto más oportunidades y posibilidades en tu vida.",
+            "Acepta nuevas propuestas y experiencias.",
+            "Abre tu mente y tu corazón a lo desconocido.",
+            "Confía en tu intuición y en tu guía interior.",
+            "Permítete explorar y descubrir nuevas dimensiones de ti mismo.",
+            "Arriésgate y sigue tus instintos.",
+            "No te limites por el miedo al fracaso.",
+            "Confía en que tienes los recursos necesarios para enfrentar los desafíos.",
+            "Aprovecha las oportunidades para crecer y expandirte."
+        ],
+        "invertida": [
+            "Sé cauteloso y reflexiona antes de actuar.",
+            "No te precipites en la toma de decisiones.",
+            "Evalúa las consecuencias potenciales de tus acciones.",
+            "No te dejes llevar por la impulsividad o la imprudencia.",
+            "Revisa tus intenciones y motivaciones.",
+            "Asegúrate de estar actuando desde un lugar de autenticidad y alineación con tus valores.",
+            "Evita los comportamientos temerarios o irresponsables.",
+            "No te sobreexpongas a riesgos innecesarios.",
+            "Busca el equilibrio entre la toma de riesgos y la prudencia.",
+            "No te dejes influenciar por la presión externa o las expectativas de los demás.",
+            "Confía en tu propio juicio y sigue tu propio camino."
+        ]
+    },
+    "cinco_de_copas": {
+        "numero": "5",
+        "nombre": "Cinco de Copas",
+        "normal": [
+            "Permítete sentir y expresar tu dolor.",
+            "No evites las emociones difíciles o incómodas.",
+            "Acepta las pérdidas y las decepciones como parte de la vida.",
+            "Permítete llorar y sanar.",
+            "Aprende las lecciones que te brindan las experiencias dolorosas.",
+            "Busca el apoyo emocional de tus seres queridos.",
+            "No te aferres a lo que ya no está presente.",
+            "Deja ir aquello que ya no te sirve o te hace daño.",
+            "Confía en que hay un renacimiento y una renovación después del dolor.",
+            "Busca la esperanza y la luz en medio de la oscuridad.",
+            "Aprende a soltar y fluir con los cambios.",
+            "Confía en que el tiempo y el proceso de curación te sanarán.",
+            "Busca ayuda profesional si es necesario para enfrentar y superar el dolor."
+        ],
+        "invertida": [
+            "Evita caer en la autocompasión excesiva.",
+            "No te estanques en el dolor y la tristeza.",
+            "Busca la manera de sanar y seguir adelante.",
+            "Acepta el apoyo emocional de los demás y permite que te ayuden.",
+            "No te cierres a las oportunidades de renovación y crecimiento.",
+            "Aprende a soltar y dejar ir el pasado.",
+            "No te aferres a lo que ya no está presente.",
+            "Busca la gratitud y el aprendizaje en medio de la adversidad.",
+            "Confía en que puedes superar los desafíos y encontrar la paz interior.",
+            "No te aísles, busca la conexión con los demás.",
+            "Encuentra la esperanza y la renovación en las pequeñas cosas de la vida."
+        ]
+    },
+    "seis_de_copas": {
+        "numero": "6",
+        "nombre": "Seis de Copas",
+        "normal": [
+            "Recuerda tu niño interior.",
+            "Revive y honra tus recuerdos y experiencias de la infancia.",
+            "Conecta con la inocencia y la alegría de tu niñez.",
+            "Reencuéntrate con viejos amigos o seres queridos del pasado.",
+            "Reconecta con tus raíces y tu historia personal.",
+            "Comparte y regala tu tiempo y tu amor a los demás.",
+            "Sé generoso y desinteresado en tus acciones.",
+            "Recibe y brinda apoyo emocional.",
+            "Haz algo que te haga sentir como un niño de nuevo.",
+            "Perdona y libera las cargas del pasado.",
+            "Disfruta de la simpleza y la belleza de la vida."
+        ],
+        "invertida": [
+            "No te aferres al pasado.",
+            "No te pierdas en la nostalgia o la melancolía.",
+            "Acepta y suelta las experiencias pasadas.",
+            "Vive en el presente y mira hacia el futuro.",
+            "No idealices el pasado o a las personas del pasado.",
+            "Acepta que las cosas han cambiado y que es necesario dejar ir algunas cosas.",
+            "Busca el equilibrio entre el pasado y el presente.",
+            "No te aísles en tus recuerdos, busca nuevas experiencias y relaciones.",
+            "Perdona y libérate de resentimientos o rencores del pasado.",
+            "Encuentra la belleza y la alegría en el presente."
+        ]
+    },
+    "siete_de_copas": {
+        "numero": "7",
+        "nombre": "Siete de Copas",
+        "normal": [
+            "Explora tus sueños y fantasías.",
+            "Permite que tu imaginación vuele sin límites.",
+            "Visualiza tus metas y deseos.",
+            "Abre tu mente a nuevas posibilidades y oportunidades.",
+            "Explora diferentes opciones y caminos.",
+            "No te limites por el miedo al fracaso.",
+            "Confía en que tienes los recursos necesarios para enfrentar los desafíos.",
+            "Aprovecha las oportunidades para crecer y expandirte.",
+            "Confía en tu intuición y en tu guía interior.",
+            "Permítete explorar y descubrir nuevas dimensiones de ti mismo.",
+            "Arriésgate y sigue tus instintos."
+        ],
+        "invertida": [
+            "Sé cauteloso y reflexiona antes de actuar.",
+            "No te precipites en la toma de decisiones.",
+            "Evalúa las consecuencias potenciales de tus acciones.",
+            "No te dejes llevar por la impulsividad o la imprudencia.",
+            "Revisa tus intenciones y motivaciones.",
+            "Asegúrate de estar actuando desde un lugar de autenticidad y alineación con tus valores.",
+            "Evita los comportamientos temerarios o irresponsables.",
+            "No te sobreexpongas a riesgos innecesarios.",
+            "Busca el equilibrio entre la toma de riesgos y la prdensa.",
+            "No te dejes influenciar por la presión externa o las expectativas de los demás.",
+            "Confía en tu propio juicio y sigue tu propio camino."
+        ]
+    },
+    "ocho_de_copas": {
+        "numero": "8",
+        "nombre": "Ocho de Copas",
+        "normal": [
+            "Deja atrás lo que ya no te satisface emocionalmente.",
+            "Emprende un viaje de autodescubrimiento y crecimiento personal.",
+            "Busca nuevas experiencias y horizontes.",
+            "Sé valiente y abandona lo conocido.",
+            "Confía en tu intuición y en tu guía interior.",
+            "Sé fiel a ti mismo y a tus necesidades emocionales.",
+            "No te conformes con menos de lo que mereces.",
+            "Busca la felicidad y la plenitud en tu vida.",
+            "Confía en que el cambio y la evolución te traerán mayores satisfacciones.",
+            "Sé consciente de tus emociones y dales espacio para sanar y transformarse.",
+            "Permítete soltar y desapegarte de lo que te retiene."
+        ],
+        "invertida": [
+            "No evites enfrentar tus emociones y necesidades.",
+            "No pospongas el cambio o la búsqueda de la felicidad.",
+            "Reconoce las señales de insatisfacción emocional y toma medidas para cambiar tu situación.",
+            "No te conformes con una vida emocional vacía o insatisfactoria.",
+            "Busca apoyo emocional y profesional si es necesario.",
+            "No te aferrices a lo conocido por miedo al cambio.",
+            "Confía en tu capacidad para crear una vida emocional plena y satisfactoria.",
+            "No te dejes atrapar por la indecisión o la inacción.",
+            "Busca la autenticidad y la honestidad contigo mismo en tus relaciones y decisiones.",
+            "Permítete soltar y desapegarte de lo que ya no te sirve o te hace daño."
+        ]
+    },
+    "nueve_de_copas": {
+        "numero": "9",
+        "nombre": "Nueve de Copas",
+        "normal": [
+            "Disfruta de la satisfacción y la plenitud emocional.",
+            "Celebra tus logros y éxitos.",
+            "Permítete disfrutar de las bendiciones y los momentos felices de la vida.",
+            "Agradece por todo lo que tienes y por lo que has logrado.",
+            "Sé generoso y comparte tu alegría con los demás.",
+            "Confía en tu capacidad para crear la vida emocional que deseas.",
+            "Permítete ser vulnerable y abrirte al amor y la felicidad.",
+            "Cultiva la gratitud y la apreciación por lo que tienes.",
+            "Reconoce tu propio valor y méritos.",
+            "Busca la armonía y el equilibrio en tus relaciones y emociones.",
+            "Confía en que mereces la felicidad y la realización emocional."
+        ],
+        "invertida": [
+            "No te dejes llevar por la insatisfacción o la búsqueda constante de más.",
+            "No te conformes con una vida emocional vacía o insatisfactoria.",
+            "Revisa tus expectativas y percepciones de la felicidad.",
+            "Busca la alegría y la satisfacción en las cosas simples de la vida.",
+            "No te aferres a los logros pasados o las experiencias emocionales antiguas.",
+            "Acepta y abraza tus vulnerabilidades y emociones.",
+            "No te niegues a ti mismo la felicidad y la realización emocional.",
+            "Cultiva la gratitud y la apreciación por lo que tienes.",
+            "Busca la armonía y el equilibrio en tus relaciones y emociones.",
+            "Confía en que mereces la felicidad y la realización emocional."
+        ]
+    },
+    "diez_de_copas": {
+        "numero": "10",
+        "nombre": "Diez de Copas",
+        "normal": [
+            "Encuentra la felicidad y la plenitud emocional en tus relaciones y en tu vida en general.",
+            "Celebra el amor, la armonía y la conexión emocional.",
+            "Disfruta de la paz y la estabilidad emocional en tu hogar y tu entorno familiar.",
+            "Cultiva relaciones auténticas y significativas.",
+            "Agradece por el amor y el apoyo de tus seres queridos.",
+            "Comparte tu alegría y felicidad con los demás.",
+            "Sé un refugio emocional para ti mismo y para los demás.",
+            "Cultiva la empatía y la compasión en tus relaciones.",
+            "Encuentra la satisfacción y la realización en tu vida emocional.",
+            "Confía en que mereces la felicidad y el amor.",
+            "Busca la integración y la armonía entre tus emociones y tus experiencias de vida."
+        ],
+        "invertida": [
+            "No te conformes con relaciones superficiales o insatisfactorias.",
+            "Revisa la calidad y autenticidad de tus relaciones.",
+            "No te cierres emocionalmente a los demás.",
+            "No te aferres a relaciones tóxicas o dañinas.",
+            "Busca la conexión emocional y la armonía en tus relaciones.",
+            "No te niegues a ti mismo la felicidad y el amor que mereces.",
+            "Trabaja en resolver conflictos y desafíos en tus relaciones.",
+            "Cultiva la comunicación y la comprensión mutua.",
+            "Confía en que puedes encontrar la felicidad y la plenitud emocional en tus relaciones.",
+            "No te conformes con una vida emocional vacía o insatisfactoria."
+        ]
+    },
+    "sota_de_copas": {
+        "numero": "Sota",
+        "nombre": "Sota de Copas",
+        "normal": [
+            "Sé receptivo y abierto a las emociones y los sentimientos.",
+            "Conéctate con tu intuición y tu mundo emocional.",
+            "Sé sensible y compasivo hacia los demás.",
+            "Ofrece y recibe apoyo emocional.",
+            "Desarrolla tu capacidad para amar y ser amado.",
+            "Explora y expresa tu creatividad emocional.",
+            "Sé un canal de amor y comprensión hacia los demás.",
+            "Confía en tu intuición y en tu sabiduría emocional.",
+            "Sé un aliado y un compañero fiel en las relaciones.",
+            "Escucha tu corazóny sigue tus instintos emocionales."
+        ],
+        "invertida": [
+            "No te cierres emocionalmente o evites tus sentimientos.",
+            "No te desconectes de tu intuición y sabiduría emocional.",
+            "Revisa y atiende tus necesidades emocionales.",
+            "No te niegues a ti mismo el amor y la compasión.",
+            "No te aísles emocionalmente de los demás.",
+            "No te dejes llevar por la insensibilidad o la falta de empatía.",
+            "Busca el equilibrio entre tu mundo emocional y racional.",
+            "No te desconectes de tus relaciones y de tu capacidad para amar.",
+            "Confía en tu intuición y en tu sabiduría emocional.",
+            "Sé consciente de cómo tus emociones influyen en tus decisiones y acciones."
+        ]
+    },
+    "caballo_de_copas": {
+        "numero": "Caballo",
+        "nombre": "Caballo de Copas",
+        "normal": [
+            "Explora tus emociones más profundas.",
+            "Permite que tus sentimientos te guíen en tus decisiones y acciones.",
+            "Sé valiente y vulnerable en tus relaciones.",
+            "Expresa tu amor y afecto de manera auténtica y sincera.",
+            "Confía en tu intuición y en tus corazonadas.",
+            "Sé romántico y apasionado en tus experiencias emocionales.",
+            "Busca el equilibrio entre la entrega y el cuidado de ti mismo.",
+            "Sé un compañero emocionalmente comprometido y leal.",
+            "Expande tu capacidad de amar y recibir amor.",
+            "Confía en tus habilidades para crear relaciones significativas y duraderas."
+        ],
+        "invertida": [
+            "No reprimas tus emociones o te cierres al amor.",
+            "No evites la vulnerabilidad en tus relaciones.",
+            "No te niegues a ti mismo el amor y la intimidad.",
+            "Revisa y atiende tus necesidades emocionales.",
+            "No te dejes llevar por la manipulación emocional o las ilusiones.",
+            "Busca el equilibrio entre dar y recibir en tus relaciones.",
+            "No te desentiendas de tus responsabilidades emocionales en las relaciones.",
+            "Confía en tu intuición y en tus corazonadas.",
+            "Sé consciente de cómo tus emociones influyen en tus decisiones y acciones.",
+            "No te dejes llevar por los caprichos emocionales o los impulsos descontrolados."
+        ]
+    },
+    "reina_de_copas": {
+        "numero": "Reina",
+        "nombre": "Reina de Copas",
+        "normal": [
+            "Sé compasiva y amorosa hacia los demás.",
+            "Muestra empatía y apoyo emocional.",
+            "Desarrolla tu intuición y tu sabiduría emocional.",
+            "Sé receptiva y abierta a tus propios sentimientos y los de los demás.",
+            "Cultiva relaciones profundas y significativas.",
+            "Sé una fuente de consuelo y amor incondicional.",
+            "Escucha con atención y comprensión.",
+            "Confía en tus habilidades para resolver conflictos y promover la armonía.",
+            "Sé una líder emocionalmente inteligente y poderosa.",
+            "Desarrolla tu capacidad para sanar y transformar emociones difíciles."
+        ],
+        "invertida": [
+            "Evita la manipulación emocional o la sobreprotección hacia los demás.",
+            "No te absorbas en los problemas emocionales de los demás.",
+            "No te descuides a ti misma en tu afán de ayudar a los demás.",
+            "Busca el equilibrio entre dar y recibir en tus relaciones.",
+            "No te dejes llevar por la inestabilidad emocional o el drama.",
+            "Sé consciente de tus propias necesidades y límites emocionales.",
+            "Confía en tu intuición y en tu sabiduría emocional.",
+            "Sé consciente de cómo tus emociones influyen en tus decisiones y acciones.",
+            "No te desgastes emocionalmente en relaciones tóxicas o desequilibradas.",
+            "Cuida de tu propia sanación y bienestar emocional."
+        ]
+    },
+    "rey_de_copas": {
+        "numero": "Rey",
+        "nombre": "Rey de Copas",
+        "normal": [
+            "Sé un líder emocionalmente inteligente y sabio.",
+            "Confía en tu intuición y sabiduría emocional.",
+            "Expresa tu amor y afecto de manera auténtica y sincera.",
+            "Sé un canal de compasión y apoyo emocional hacia los demás.",
+            "Cultiva relaciones equilibradas y significativas.",
+            "Sé un protector y un guía emocional para los demás.",
+            "Desarrolla tu capacidad de escucha y comprensión profunda.",
+            "Confía en tus habilidades para resolver conflictos y promover la armonía.",
+            "Cultiva la estabilidad emocional y la paz interior.",
+            "Sé un ejemplo de integridad y autenticidad en tus relaciones."
+        ],
+        "invertida": [
+            "Evita el abuso de poder emocional o la manipulación.",
+            "No te dejes llevar por la indiferencia o la insensibilidad emocional.",
+            "No te aísles emocionalmente o te desconectes de los demás.",
+            "Busca el equilibrio entre tu mundo emocional y racional.",
+            "No te dejes llevar por el orgullo o la arrogancia emocional.",
+            "Sé consciente de cómo tus emociones influyen en tus decisiones y acciones.",
+            "No te dejes llevar por el control o la sobreprotección hacia los demás.",
+            "Confía en tu intuición y en tu sabiduría emocional.",
+            "Sé consciente de tus propias necesidades y límites emocionales.",
+            "Cuida de tu propia sanación y bienestar emocional."
+        ]
+    },
+    "as_de_espadas": {
+        "numero": "As",
+        "nombre": "As de Espadas",
+        "normal": [
+            "Define bien tus argumentos e ideas.",
+            "Di claramente lo que piensas y sé asertivo.",
+            "Toma una decisión.",
+            "Identifica lo que te parece inadecuado y elimínalo.",
+            "Actúa en concordancia con tus convicciones.",
+            "Sé implacable contra la mentira, el abuso y la injusticia.",
+            "Borrón y cuenta nueva.",
+            "Actúa con la mente fría.",
+            "Busca la verdad apoyándote en evidencia real.",
+            "Aclara lo que está confuso.",
+            "Corta decididamente con el pasado."
+        ],
+        "invertida": [
+            "No saques conclusiones aún, te falta información.",
+            "No decidas hasta sentirte completamente seguro.",
+            "Revisa si acaso estás intentando comprender una situación nueva desde una perspectiva obsoleta.",
+            "No impongas tus ideas, tu visión o tus creencias.",
+            "Observa, escucha y siente.",
+            "Pon en duda tus propias opiniones.",
+            "No seas exigente.",
+            "No inicies algo nuevo ahora.",
+            "No digas nada de lo que te puedas arrepentir después."
+        ]
+    },
+    "dos_de_espadas": {
+        "numero": "Dos",
+        "nombre": "Dos de Espadas",
+        "normal": [
+            "Evalúa a fondo tus opciones.",
+            "Piensa con la mente fría.",
+            "Reconoce un peligro latente y procura evitarlo.",
+            "Mantén la calma a toda costa.",
+            "Protege a los que son más débiles que tú.",
+            "Recopila información antes de dar el golpe decisivo.",
+            "No actúes prematuramente.",
+            "Si tienes que mediar, procura ser imparcial.",
+            "No muestres tus emociones.",
+            "No actúes por impulso.",
+            "Descubre de qué manera te has quedado atrapado en un diálogo mental interminable."
+        ],
+        "invertida": [
+            "Actúa en base a lo que has comprendido.",
+            "Asume que tu decisión puede ser dolorosa pero necesaria.",
+            "Deja de dudar, ya sabes lo que tienes que hacer.",
+            "Para decidir con convicción, siente lo que te dice tu cuerpo.",
+            "Abre los ojos, asume lo que está sucediendo tal como es.",
+            "Deja de evitar un conflicto a costa de tu propia energía. Permite que éste se manifieste allá afuera.",
+            "En medio de la tormenta, aférrate a tus convicciones."
+        ]
+    },
+    "tres_de_espadas": {
+        "numero": "Tres",
+        "nombre": "Tres de Espadas",
+        "normal": [
+            "Acepta la tristeza inherente a la situación, tanto la tuya como la de otros.",
+            "Pon mucha atención a las palabras duras que te dices a ti mismo.",
+            "Descubre qué creencias acerca de la vida y de ti mismo son las que te causan sufrimiento.",
+            "Tómate un tiempo para vivir tu dolor, no te sobre-exijas.",
+            "No rehuyas el conflicto, permite que éste te atraviese y te muestre quién eres y qué es lo más importante para ti.",
+            "Asume que has sido cómplice de tu propio sufrimiento aunque ahora no puedas ver de qué manera.",
+            "Pon atención en los aspectos dolorosos o conflictivos de una situación, incluso si te parecen insignificantes por ahora.",
+            "Expresa lo que piensas aún cuando pueda resultar doloroso para quien te escucha."
+        ],
+        "invertida": [
+            "Supera un dolor o un conflicto a través del aprendizaje.",
+            "Sécate las lágrimas y disponte a seguir adelante.",
+            "Evita a toda costa una situación dramática.",
+            "Descubre la manera de perdonar, ser perdonado y perdonarte a ti mismo con sinceridad.",
+            "Elimina cualquier concepto, idea o visión que te esté jugando en contra.",
+            "Aclara cualquier malentendido.",
+            "Descubre cuán resiliente eres.",
+            "Aléjate definitivamente de aquello que te hace daño.",
+            "Abandona el lugar de la víctima, hazte responsable de tu parte."
+        ]
+    },
+    "cuatro_de_espadas": {
+        "numero": "Cuatro",
+        "nombre": "Cuatro de Espadas",
+        "normal": [
+            "Descansa.",
+            "Vive tu convalecencia.",
+            "Pon en orden tus pensamientos.",
+            "Retírate del conflicto para recuperar energías.",
+            "Procura mantener una posición neutral.",
+            "Calma tu mente, medita, respira hondo.",
+            "Recapitula.",
+            "Toma conciencia de cómo has llevado las cosas hasta ahora y en base a eso, comienza a definir tus nuevas líneas de acción.",
+            "Prepárate para resolver un asunto difícil que tienes pendiente."
+        ],
+        "invertida": [
+            "Ponte de pie y retoma la acción.",
+            "Prepárate para entrar en un conflicto inevitable y necesario.",
+            "Aférrate a lo que has descubierto o comprendido.",
+            "Rompe el silencio, di lo que realmente piensas.",
+            "Si tu punto de vista ya no es el mismo de antes, defiende tu derecho a cambiar de opinión.",
+            "Sal de tu encierro.",
+            "Comparte lo que has aprendido o entendido.",
+            "Evita la parálisis por análisis.",
+            "Ábrete al mundo nuevamente y acepta sus desafíos."
+        ]
+    },
+    "cinco_de_espadas": {
+        "numero": "Cinco",
+        "nombre": "Cinco de Espadas",
+        "normal": [
+            "Entra de lleno en la batalla.",
+            "Defiende tus convicciones con fuerza.",
+            "Define claramente qué es lo que estás defendiendo.",
+            "No te enfoques en conciliar puntos de vista diferentes.",
+            "Fundamenta bien tus ideas y no cedas.",
+            "Compite con agresividad, y recuerda que agresividad y violencia no son lo mismo.",
+            "Evita los ataques personales. Enfócate encuestionar ideas y conductas con las que no estás de acuerdo.",
+            "Juega a ganar, entrégalo todo.",
+            "Acepta la posibilidad de salir derrotado de antemano, pero no por ello renuncies a tus esfuerzos.",
+            "Descubre la verdadera dimensión de tu enojo e indignación."
+        ],
+        "invertida": [
+            "Actúa con diplomacia.",
+            "Procura comprender los verdaderos motivos de los demás.",
+            "Ponte en los zapatos del otro.",
+            "Evita a toda costa un conflicto abierto.",
+            "Trabaja por la reconciliación.",
+            "Sana tus heridas y ayuda a sanar las heridas de los demás.",
+            "Pide perdón si es necesario.",
+            "Retírate del campo de batalla, baja las armas.",
+            "Rescata la enseñanza que te ha entregado el conflicto acerca de ti mismo.",
+            "Comprométete con la paz y planifica tu futuro en base a este compromiso.",
+            "Identifica aquello que necesitas dejar atrás para poder vivir mejor de ahora en adelante."
+        ]
+    },
+    "seis_de_espadas": {
+        "numero": "Seis",
+        "nombre": "Seis de Espadas",
+        "normal": [
+            "Abandona cualquier situación que te esté haciendo daño.",
+            "Reconoce que ya no hay nada más que puedas hacer para mejorar las cosas.",
+            "Retírate aunque queden asuntos sin resolver.",
+            "Procura mantener una mirada objetiva frente a lo que has estado viviendo.",
+            "No permitas que la nostalgia, la culpa o el remordimiento te sigan reteniendo en un lugar tóxico para ti.",
+            "Atraviesa el dolor, ya llegarás a la otra orilla.",
+            "Aférrate a tu voluntad para salir adelante.",
+            "Salva tu vida.",
+            "Busca un refugio.",
+            "Regálate una nueva oportunidad para ser feliz."
+        ],
+        "invertida": [
+            "Resuelve lo que sea necesario antes de abandonar una situación difícil.",
+            "Prepara y planifica bien tu escape.",
+            "Devuélvete al conflicto, hay algo que necesitas aprender o comprender.",
+            "Espera un momento más adecuado para retirarte.",
+            "Utiliza las dificultades para hacerte más fuerte.",
+            "Dale una oportunidad a aquello que pareciera estar perdido.",
+            "Si ya has hecho una transición completa, enfócate en lo nuevo.",
+            "Descubre de qué manera te metes siempre en el mismo problema de manera inconsciente."
+        ]
+    },
+    "siete_de_espadas": {
+        "numero": "Siete",
+        "nombre": "Siete de Espadas",
+        "normal": [
+            "Actúa espontáneamente.",
+            "Toma una oportunidad sin pensarlo demasiado.",
+            "Enfócate en satisfacer tus necesidades inmediatas.",
+            "No permitas que la sensación de peligro te detenga.",
+            "Toma por asalto lo que deseas.",
+            "No te tomes las cosas con gravedad.",
+            "No planifiques.",
+            "Fluye manteniendo un espíritu lúdico.",
+            "Deja a un lado tu perfeccionismo y tu autoexigencia.",
+            "Descubre qué o quién te está jugando sucio.",
+            "Revisa si estás intentando solucionar un asunto complejo con estrategias insuficientes."
+        ],
+        "invertida": [
+            "Actúa con sensatez y racionalidad.",
+            "Evita engañarte a ti mismo y a los demás.",
+            "Considera las consecuencias negativas que pueden tener tus acciones, tanto en el presente como en el futuro.",
+            "No actúes por impulso.",
+            "Planifica para el mediano y largo plazo.",
+            "Utiliza tu mente estratégica.",
+            "No dejes cabos sueltos.",
+            "Mantén una visión clara de tus metas, y pregúntate a ti mismo si te estás acercando a ellas o no.",
+            "Piensa en los demás.",
+            "Hazte responsable de tus decisiones.",
+            "No pretendas resolver un asunto de un solo golpe.",
+            "No esperes que los demás se hagan cargo de tus problemas."
+        ]
+    },
+    "ocho_de_espadas": {
+        "numero": "Ocho",
+        "nombre": "Ocho de Espadas",
+        "normal": [
+            "Permanece en la limitación por ahora.",
+            "Experimenta lo que significa vivir bajo la influencia de tu actual sistema de creencias limitantes.",
+            "No actúes al margen de lo establecido.",
+            "Acepta que en este momento eres impotente frente a las circunstancias.",
+            "Permanece inmóvil, no busques una salida hasta comprender tu verdadera posición.",
+            "Si tienes que tomar una decisión, postérgala.",
+            "Asume que tu perspectiva en este momento es limitada. Espera a tener más información.",
+            "Pon atención a las palabras que te dices a ti mismo y detecta a tu enemigo interno en ellas.",
+            "Deja que el malestar pase por sí solo, tómate tu tiempo.",
+            "Restríngete a ti mismo."
+        ],
+        "invertida": [
+            "Encuentra una salida.",
+            "Deja de restringirte a ti mismo.",
+            "Ábrete a nuevas ideas.",
+            "Permite que tus emociones te muestren el camino.",
+            "Cambia tu manera de pensar si deseas avanzar.",
+            "Actúa de forma innovadora, sorprendente o poco convencional.",
+            "Fluye por entre los obstáculos.",
+            "Deja de darte golpes contra la pared.",
+            "Desafía y desmantela tus propias creencias limitantes.",
+            "Trasciende los prejuicios y miedos que te coartan.",
+            "Toma una decisión que realmente te sea favorable.",
+            "Fortalece tu sentido del merecimiento.",
+            "Abandona el rol de mártir o de víctima.",
+            "Recuerda que siempre eres libre para elegir. Hazlo en concordancia con tu verdad.",
+            "Acepta la responsabilidad que implica el ser libre."
+        ]
+    },
+    "nueve_de_espadas": {
+        "numero": "Nueve",
+        "nombre": "Nueve de Espadas",
+        "normal": [
+            "Reflexiona hasta dar con una respuesta.",
+            "Evita el falso optimismo.",
+            "No bajes el perfil a la situación.",
+            "Reconoce tus fallos.",
+            "Preocúpate por el asunto en cuestión, no lo evadas.",
+            "Identifica tu responsabilidad en el asunto.",
+            "Reconoce de qué cosas te arrepientes.",
+            "No esperes que las cosas mejoren por sí mismas. Asume que tendrás que hacer algo al respecto.",
+            "Explora maneras nuevas de ampliar tu influencia sobre la situación.",
+            "Sumérgete en tus preocupaciones, identifícalas una a una y dales un orden comprensible.",
+            "Descubre de qué manera te escondes detrás de una máscara sufriente."
+        ],
+        "invertida": [
+            "Dale un descanso a tu mente.",
+            "Deja de preocuparte.",
+            "Comprende que hay cosas que escapan a tu control.",
+            "Deja de vivir para la opinión del resto.",
+            "Permite que los demás se hagan responsables de sí mismos.",
+            "Hazte responsable de tus propios asuntos y nada más.",
+            "Comprende que no puedes mandar en los sentimientos, deseos o pensamientos de otras personas.",
+            "Haz algo concreto para salir de tus problemas.",
+            "Comprende que ninguna experiencia del pasado tiene el poder para definir quién eres ni quién serás."
+        ]
+    },
+    "diez_de_espadas": {
+        "numero": "Diez",
+        "nombre": "Diez de Espadas",
+        "normal": [
+            "Sé plenamente consciente de los pensamientos que te están dañando o limitando.",
+            "Experimenta y acepta el dolor de la situación.",
+            "Da la última estocada para cerrar una etapa conflictiva.",
+            "Cierra la última fase de una etapa dolorosa.",
+            "Acepta tu derrota, o la derrota de alguien más, y confía en que algo nuevo surgirá.",
+            "Déjate caer hasta el fondo, pronto subirás de vuelta a la superficie.",
+            "Recuerda que después de la tormenta viene la calma.",
+            "Descubre cómo lo haces para ser tu peor enemigo."
+        ],
+        "invertida": [
+            "Es hora de dejar atrás una manera de pensar obsoleta.",
+            "Ábrete a una nueva forma, más constructiva, de interpretar la realidad.",
+            "Sal de la posición de víctima, asume la responsabilidad sobre tu vida. Busca ayuda si es necesario.",
+            "Deja de definir quién eres en base a un pasado doloroso.",
+            "Aléjate decididamente de una situación hostil.",
+            "Avanza hacia una nueva etapa llevándote todo el aprendizaje de la anterior.",
+            "Dale tiempo a tus heridas para que se sanen, y deja de hurgar en ellas.",
+            "Comienza a visualizar y sentir cómo quieres vivir de ahora en adelante.",
+            "Reconoce y honra tu enorme resiliencia."
+        ]
+    },
+    "paje_de_espadas": {
+        "numero": "Paje",
+        "nombre": "Paje de Espadas",
+        "normal": [
+            "Indaga, investiga.",
+            "Aprende algo nuevo de orden teórico.",
+            "Nutre tu mente con información de la mejor calidad.",
+            "Observa la evidencia para hacerte una idea lo más objetiva posible de lo que está sucediendo.",
+            "Adopta una posición defensiva.",
+            "Evita ser prejuicioso.",
+            "Sé sincero contigo mismo.",
+            "Aclara cualquier malentendido.",
+            "Conoce lo que tienes delante antes de involucrarte más.",
+            "Evalúa tus opciones racionalmente.",
+            "Descubre la verdad detrás de las apariencias.",
+            "Aprende de tu entorno.",
+            "Mantén tu independencia mental."
+        ],
+        "invertida": [
+            "Cambia tu manera de ver las cosas.",
+            "No saques conclusiones aún.",
+            "Abandona la etapa de observación y avanza hacia la acción.",
+            "Busca claridad en el consejo de un experto.",
+            "Baja la guardia.",
+            "Déjate influir.",
+            "Descubre si tienes alguna idea equivocada que te esté perjudicando."
+        ]
+    },
+    "caballero_de_espadas": {
+        "numero": "Caballero",
+        "nombre": "Caballero de Espadas",
+        "normal": [
+            "Avanza decididamente hacia tus objetivos.",
+            "Pon orden en la situación.",
+            "Aclara todo lo que parezca ambiguo.",
+            "Elimina lo que consideras incorrecto o innecesario.",
+            "Exige la verdad.",
+            "Expresa tu verdad.",
+            "Actúa de acuerdo con tus principios.",
+            "Defiende lo que consideras justo.",
+            "Permite que la rabia te muestre qué límites han sido transgredidos.",
+            "No temas al conflicto, entra en él con valentía y determinación.",
+            "Afina tus ideas y argumentos.",
+            "Sé sincero y no temas al rechazo ni a la desaprobación de otros.",
+            "Actúa con rapidez."
+        ],
+        "invertida": [
+            "Sé más agresivo, sobre todo si sueles ser demasiado condescendiente.",
+            "Sé más calmo, sobre todo si tiendes a actuar con vehemencia.",
+            "Recopila más información antes de dar una opinión.",
+            "Ve más lento o detente por completo.",
+            "Permite que la situación se aclare por sí sola.",
+            "No impongas tu visión.",
+            "Escucha a los demás, dales espacio para expresarse.",
+            "Permite que los débiles se hagan fuertes por sí mismos.",
+            "Observa si existe algún enojo, propio o de otra persona, que esté operando desde el inconsciente."
+        ]
+    },
+    "reina_de_espadas": {
+        "numero": "Reina",
+        "nombre": "Reina de Espadas",
+        "normal": [
+            "Libérate, sobre todo a nivel de pensamiento.",
+            "Alimenta tu autonomía.",
+            "Equilibra lo emocional con lo racional.",
+            "Mantén una actitud objetiva y analítica.",
+            "Comunica tus ideas y pensamientos con claridad y precisión.",
+            "Confía en tu intelecto y en tu capacidad de discernimiento.",
+            "No te dejes llevar por la impulsividad.",
+            "Mantén la calma en situaciones conflictivas.",
+            "Asume un liderazgo basado en la lógica y la sabiduría.",
+            "Defiende tus ideas con inteligencia y diplomacia.",
+            "Sé justa y equitativa en tus decisiones.",
+            "Corta con la influencia de pensamientos y creencias limitantes.",
+            "Utiliza tu poder mental para superar obstáculos y resolver problemas.",
+            "Enfócate en el aprendizaje y el crecimiento personal a través del conocimiento."
+        ],
+        "invertida": [
+            "Libérate de patrones de pensamiento rígidos y limitantes.",
+            "Revisa tus creencias y prejuicios.",
+            "Equilibra la razón con la intuición y las emociones.",
+            "No te dejes llevar por la frialdad y la insensibilidad.",
+            "Evita el uso de la inteligencia para manipular o dañar a los demás.",
+            "Comunica tus ideas de manera clara y empática.",
+            "No permitas que los conflictos te consuman emocionalmente.",
+            "Asume la responsabilidad de tus acciones y decisiones.",
+            "Reconoce y trasciende tus miedos y temores mentales.",
+            "Busca el equilibrio entre el pensamiento lógico y la creatividad.",
+            "Confía en tu intuición y en tu sabiduría interior.",
+            "Utiliza tu capacidad de análisis para resolver problemas de manera efectiva."
+        ]
+    },
+    "rey_de_espadas": {
+        "numero": "Rey",
+        "nombre": "Rey de Espadas",
+        "normal": [
+            "Ejerce un liderazgo fuerte y justo.",
+            "Muestra claridad mental y racionalidad.",
+            "Toma decisiones basadas en la lógica y la razón.",
+            "Mantén el control de tus emociones y pensamientos.",
+            "Comunica tus ideas con autoridad y convicción.",
+            "Actúa con integridad y transparencia.",
+            "Defiende la verdad y la justicia.",
+            "Enfrenta los desafíos y obstáculos con determinación.",
+            "Utiliza tu capacidad de análisis para resolver problemas complejos.",
+            "Inspira a otros con tu sabiduría y experiencia.",
+            "Mantén una visión clara y objetiva.",
+            "Confía en tu capacidad de liderazgo y toma de decisiones.",
+            "Utiliza el poder de la mente para alcanzar tus metas y objetivos.",
+            "Sé consciente de tu influencia y utiliza tu poder sabiamente."
+        ],
+        "invertida": [
+            "Evita el abuso de poder y la manipulación.",
+            "Revisa tus creencias y prejuicios.",
+            "No te dejes llevar por la frialdad y la insensibilidad.",
+            "Escucha las opiniones y perspectivas de los demás.",
+            "No tomes decisiones precipitadas o basadas en el ego.",
+            "Mantén el control de tus emociones y pensamientos negativos.",
+            "Reconoce y trasciende tus propias limitaciones mentales.",
+            "No permitas que el poder nuble tu juicio.",
+            "Sé consciente de la responsabilidad que conlleva el liderazgo.",
+            "Utiliza tu poder y autoridad para el beneficio de todos.",
+            "Escucha tu intuición y equilibra la razón con la sabiduría interior.",
+            "Mantén una comunicación clara y empática con los demás.",
+            "Confía en tu capacidad de aprender y crecer en el proceso de liderazgo."
+        ]
+    },
+    "as_de_oros": {
+        "numero": "As",
+        "nombre": "As de Oros",
+        "normal": [
+            "Inicia algo concreto.",
+            "Piensa bien qué quieres cosechar más adelante y siémbralo ahora.",
+            "Involucra tu tiempo, tus recursos y tu trabajo en algo que comienza. Valdrá la pena.",
+            "Invierte tus esfuerzos en un terreno que sea fértil.",
+            "Haz una oferta, un regalo o una ofrenda.",
+            "Protege lo que estás iniciando, es de gran valor.",
+            "Recibe lo que la vida te está regalando y hazlo crecer.",
+            "Haz un gasto o una inversión.",
+            "Haz acto de presencia."
+        ],
+        "invertida": [
+            "Piensa bien antes de invertir tu tiempo, tus recursos y tu trabajo.",
+            "Reconsidera lo que quieres iniciar o los frutos que deseas obtener.",
+            "Revisa si lo que te están ofreciendo te servirá realmente o no.",
+            "No inicies nada por el momento.",
+            "Observa la situación y reconoce los aspectos negativos de ésta.",
+            "Guarda tu dinero, no lo gastes en lo que tienes en mente.",
+            "Retírate o directamente no te presentes.",
+            "No te prestes para algo que no concuerda contigo o que tu cuerpo rechaza.",
+            "No recibas lo que te están ofreciendo."
+        ]
+    },
+    "dos_de_oros": {
+        "numero": "Dos",
+        "nombre": "Dos de Oros",
+        "normal": [
+            "Vuélvete fluido.",
+            "Soluciona tus asuntos a medida que se vayan presentando.",
+            "No dejes nada sin atender.",
+            "Acepta los vaivenes de la vida como algo normal y positivo.",
+            "Procura conciliar aquellos aspectos de tu vida que no resultan naturalmente compatibles.",
+            "Si tienes que escoger, tómale bien el peso a cada opción.",
+            "Danza con la vida y vuélvete cada vez un mejor danzarín.",
+            "Haz lo necesario para mantener todo andando."
+        ],
+        "invertida": [
+            "Suelta aquello que ya no puedes o no quieres sostener.",
+            "Descansa.",
+            "Escoge la opción que te haga más sentido.",
+            "Delega todo lo que puedas.",
+            "Reconoce tus límites, no te sobreexijas.",
+            "Si algo no funciona por sí mismo, no lo fuerces.",
+            "Elige a qué amo servir: a ti mismo o al qué dirán."
+        ]
+    },
+    "tres_de_oros": {
+        "numero": "Tres",
+        "nombre": "Tres de Oros",
+        "normal": [
+            "Encuentra trabajo.",
+            "Contrata a alguien bien calificado.",
+            "Forma un buen equipo.",
+            "Da lo mejor de ti.",
+            "Enfócate en construir algo realmente significativo y que sea sustentable.",
+            "Ocupa tu lugar y hazte cargo de lo que te corresponde.",
+            "Desarrolla aún más tus habilidades.",
+            "Confía en tus capacidades.",
+            "Concéntrate únicamente en lo que quieres lograr.",
+            "Esfuérzate de manera sostenida hasta que consigas tu objetivo.",
+            "Trabaja para lograr la estabilidad.",
+            "Construye desde la base, etapa por etapa."
+        ],
+        "invertida": [
+            "No te involucres.",
+            "Retírate.",
+            "No incluyas en tu proyecto a esa persona que tienes en mente. Si ya está incluida, pídele que se retire.",
+            "Detén el avance de lo que estás construyendo e identifica sus puntos débiles.",
+            "Tómate un descanso.",
+            "Revisa si aún te hace sentido lo que estás construyendo.",
+            "Desarma lo que veas que no está sólido.",
+            "Descubre de qué manera saboteas tus posibilidades de generar algo significativo."
+        ]
+    },
+    "cuatro_de_oros": {
+        "numero": "Cuatro",
+        "nombre": "Cuatro de Oros",
+        "normal": [
+            "Protege tus puntos débiles o sensibles.",
+            "Blíndate.",
+            "Aférrate a lo que es tuyo.",
+            "Ahorra.",
+            "Restringe tus gastos.",
+            "Busca el orden y la estabilidad por sobre todo.",
+            "Asegura lo que has conseguido.",
+            "Controla cada aspecto de la situación.",
+            "Pon los pies en la tierra.",
+            "Consolida tu aprendizaje.",
+            "Crea una rutina o un sistema práctico que te permita funcionar sin contratiempos.",
+            "Céntrate en todo lo material o temporal.",
+            "Descubre de qué manera el miedo a perder te está coartando desde las sombras."
+        ],
+        "invertida": [
+            "Rompe la rutina.",
+            "Relájate.",
+            "Ábrete a lo impredecible.",
+            "Introduce un cambio.",
+            "Deja de protegerte, ábrete a la situación.",
+            "Confía en que tendrás todo lo que necesitas.",
+            "Delega más.",
+            "Haz ese gasto que sabes que es necesario.",
+            "Déjate influir.",
+            "Permite que se rompan tus esquemas.",
+            "No acapares.",
+            "Suelta el control."
+        ]
+    },
+    "cinco_de_oros": {
+        "numero": "Cinco",
+        "nombre": "Cinco de Oros",
+        "normal": [
+            "Enfócate en sobrevivir.",
+            "Afirmate en lo que tengas a mano.",
+            "Reduce tus gastos al mínimo.",
+            "Experimenta las consecuencias de vivir de acuerdo con una conciencia de pobreza.",
+            "Busca un refugio.",
+            "Acepta que necesitas ayuda.",
+            "Asume tu debilidad en este momento.",
+            "Actúa con humildad.",
+            "Atraviesa el momento crítico como mejor puedas.",
+            "Une tus fuerzas a las de otros que están en condiciones semejantes a las tuyas.",
+            "Descubre de qué manera tu bajo sentido del merecimiento te está llevando a vivir situaciones de miseria y privación."
+        ],
+        "invertida": [
+            "Enfócate en dejar atrás la miseria en cualquiera de sus formas.",
+            "Eleva tus estándares en todos los sentidos.",
+            "Aprende a cobrar bien por tu trabajo aunque al principio te cueste.",
+            "Anímate a pararte en tus propios pies y deja de utilizar a los demás como muletas.",
+            "Aléjate de cualquier persona o situación que te resulte empobrecedora o agotadora.",
+            "Topa fondo e impúlsate de vuelta hacia la superficie.",
+            "Visualiza y siente cómo se vería todo si te amaras a ti mismo mucho más que ahora.",
+            "Trabaja para mejorar tu sentido del merecimiento.",
+            "Deja de sentir pena por ti mismo o por otros.",
+            "Reconoce y honra tu resiliencia.",
+            "Enumera tus recursos, tanto los materiales como los mentales, emocionales y espirituales.",
+            "Ábrete a la abundancia de cosas buenas y agradece.",
+            "Aumenta tu capacidad para dar y recibir desde una noción de comunidad."
+        ]
+    },
+    "seis_de_oros": {
+        "numero": "Seis",
+        "nombre": "Seis de Oros",
+        "normal": [
+            "Comparte tu riqueza, tanto material como personal.",
+            "Brinda ayuda a quienes lo necesiten.",
+            "Al compartir, pon una medida justa en lo que entregas para que puedas mantenerlo en el tiempo.",
+            "Mantén un equilibrio entre generosidad y precaución.",
+            "Administra correctamente tus recursos y tu tiempo.",
+            "Aprende a decir 'no' y 'es suficiente'.",
+            "Maneja tus finanzas con sabiduría.",
+            "Utiliza tus recursos para crear belleza y abundancia.",
+            "Da únicamente lo que nace desde tu genuino deseo de dar. No dés por obligación o por compromiso.",
+            "Descansa en tu éxito y disfruta de él, que te lo has ganado con esfuerzo.",
+            "Si estás en una situación precaria, acepta recibir ayuda."
+        ],
+        "invertida": [
+            "Da más de lo que te nace dar, sin poner medida.",
+            "Haz un esfuerzo extra aunque te sientas agotado.",
+            "No sigas compartiendo.",
+            "Rompe con una relación asistencialista o haz algo para cambiarla.",
+            "Deja de mendigar amor, dinero, atención o lo que sea.",
+            "No te duermas en los laureles. Es hora de seguir creciendo.",
+            "Permítete hacer algún gasto extra, sólo para darte un gusto.",
+            "Descubre de qué manera te estás agotando a ti mismo en el afán de obtener el amor o el reconocimiento de otros."
+        ]
+    },
+    "siete_de_oros": {
+        "numero": "Siete",
+        "nombre": "Siete de Oros",
+        "normal": [
+            "Ten mucha paciencia.",
+            "Haz lo que esté en tus manos para que las cosas crezcan y deja que el tiempo haga lo suyo.",
+            "Espera buenos resultados en un futuro próximo.",
+            "Disfruta observando cómo se desarrollan las cosas a su propio ritmo.",
+            "No te obsesiones con tener el resultado ahora mismo.",
+            "Valora todo lo que has conseguido hasta ahora gracias a tu perseverancia.",
+            "Provee lo necesario en su justa medida y de manera sostenida.",
+            "Acepta la incertidumbre como parte natural del proceso."
+        ],
+        "invertida": [
+            "Aborta misión.",
+            "Deja de alimentar falsas esperanzas.",
+            "Si necesitas abandonar algo, no te restrinjas pensando en todo lo que has invertido hasta el momento.",
+            "Permite que tu impaciencia te hable.",
+            "Considera emprender un proyecto diferente.",
+            "Ponte metas más altas o ambiciosas.",
+            "Deja atrás el conformismo.",
+            "Deja de auto-imponerte dificultades que sólo sabotean tus verdaderas posibilidades.",
+            "Descubre de qué manera tu impaciencia o negatividad están saboteando tus posibilidades de obtener lo que quieres."
+        ]
+    },
+    "ocho_de_oros": {
+        "numero": "Ocho",
+        "nombre": "Ocho de Oros",
+        "normal": [
+            "Concéntrate en tus tareas.",
+            "Aléjate de cualquier distracción.",
+            "Enfócate en producir resultados concretos.",
+            "Trabaja no sólo para obtener ganancias materiales sino también para obtener aprendizaje.",
+            "Haz tantos intentos como sean necesarios hasta dominar lo que te has propuesto.",
+            "Permítete cometer errores. Ellos te ayudarán a perfeccionarte.",
+            "Aspira a la maestría.",
+            "Aprende a disfrutar del esfuerzo.",
+            "Aprovecha un momento de gran productividad.",
+            "Toma conciencia de la importancia de lo que estás construyendo.",
+            "Hazte cargo.",
+            "Sé prolijo, detallista y riguroso.",
+            "Apunta siempre a la excelencia."
+        ],
+        "invertida": [
+            "Relájate.",
+            "Tómate un descanso.",
+            "Deja de esforzarte.",
+            "Comprende que no hay nada más que puedas hacer por ahora.",
+            "Retírate de la situación o toma distancia, y observa si ésta se sostiene por sí misma.",
+            "Evita ser demasiado perfeccionista.",
+            "No te obsesiones con un resultado fijo.",
+            "Acepta que a veces lo mejor que puede pasar es que no se cumpla lo que deseas.",
+            "Suéltalo todo y permite que las cosas se desarrollen de acuerdo a su propia naturaleza.",
+            "Deja de mirar la situación como si fuera un trabajo.",
+            "No inviertas tu tiempo, tu energía ni tus recursos en lo que tienes en mente.",
+            "Descubre qué habilidades te hacen falta desarrollar.",
+            "Observa si tú o alguien más se están desentendiendo de sus responsabilidades."
+        ]
+    },
+    "nueve_de_oros": {
+        "numero": "Nueve",
+        "nombre": "Nueve de Oros",
+        "normal": [
+            "Ábrete a la idea de éxito.",
+            "Valora y goza con todo lo que has logrado gracias a tu propio esfuerzo.",
+            "Sé consciente de tus grandes capacidades.",
+            "Administra sabiamente tus recursos y tu tiempo.",
+            "Disfruta profundamente de estar contigo mismo.",
+            "Crea un espacio propio donde puedas nutrirte, descansar, gozar y crear.",
+            "Permite que tu alma exprese sus verdaderos deseos y pon tu mente a trabajar para cumplirlos.",
+            "Cultiva con entusiasmo tu mundo propio y tus propios intereses.",
+            "Comprende que sólo tú eliges lo que debe crecer en el jardín que es tu vida.",
+            "Sé muy selectivo en cuanto a las energías y presencias que dejas entrar en tu mundo.",
+            "Pasa más tiempo al aire libre.",
+            "Agradécete por ser quien eres."
+        ],
+        "invertida": [
+            "No te aisles. Abre tus puertas al mundo que te rodea.",
+            "Comparte lo que tienes, tanto lo material como lo espiritual.",
+            "Comienza a avanzar desde la independencia hacia la interdependencia.",
+            "No des por sentado el éxito, la estabilidad o laprosperidad.",
+            "Restringe todos tus gastos superfluos.",
+            "Invierte tu dinero sólo si estás seguro de que valdrá la pena correr el riesgo.",
+            "Prepárate para avanzar hacia un nivel mayor de responsabilidad e influencia.",
+            "Acepta que ahora las cosas no son exactamente como las visualizaste en su momento.",
+            "Descubre de qué manera evitas que el éxito se manifieste en tu vida.",
+            "Observa si estás exponiéndote a peligros innecesarios."
+        ]
+    },
+    "diez_de_oros": {
+        "numero": "Diez",
+        "nombre": "Diez de Oros",
+        "normal": [
+            "Crea o mantén un sistema de vida estable y productivo.",
+            "Aclara y fortalece los roles de cada persona que esté a tu cargo.",
+            "Respeta las normas y apégate a los protocolos.",
+            "Planifica bien tu tiempo.",
+            "Permanece fiel a tu familia u organización.",
+            "Haz ciertas concesiones en beneficio de un orden mayor.",
+            "Establece rutinas que favorezcan lo que quieres conseguir.",
+            "Construye pensando en el largo plazo, considerando incluso a las siguientes generaciones.",
+            "Aférrate a lo que te da seguridad.",
+            "Provee de un respaldo práctico o material para otras personas.",
+            "Reinvierte tus excedentes.",
+            "Trabaja para fortalecer el sentido de pertenencia más que el sentido de individualidad."
+        ],
+        "invertida": [
+            "Rompe la rutina.",
+            "Busca la innovación.",
+            "Libérate de la identidad de grupo.",
+            "Pon atención en lo que te hace diferente a tu familia u organización.",
+            "Comienza a considerar un camino independiente.",
+            "Escapa de un orden que te resulta agobiante o sin sentido.",
+            "Libérate de las expectativas de los demás. Atrévete a ser la oveja negra.",
+            "Deja de invertir en lo de siempre y busca nuevas alternativas.",
+            "Desarma lo que ya no funciona para ti.",
+            "Abandona tu familia de origen y enfócate en crear tu propia vida, con tus propias reglas y valores.",
+            "Acepta la incertidumbre que acompaña la búsqueda de un camino propio.",
+            "Fortalece tu sentido de individualidad por sobre tu sentido de pertenencia."
+        ]
+    },
+    "paje_de_oros": {
+        "numero": "Paje",
+        "nombre": "Paje de Oros",
+        "normal": [
+            "Déjate encantar.",
+            "Permite que tu curiosidad te guíe.",
+            "Mantén una actitud atenta y receptiva.",
+            "Concéntrate en algo que despierte un interés genuino en ti.",
+            "Aprende a través de la práctica, el juego y la experimentación.",
+            "Piensa y siente qué cosas te gustaría ver crecer en tu vida.",
+            "Dedícate a desarrollar tus talentos y habilidades, sobre todo las físicas o manuales.",
+            "Haz una inversión.",
+            "Recibe, valora y agradece lo que la vida te está entregando."
+        ],
+        "invertida": [
+            "Deja a un lado aquel asunto que sabes que no rendirá frutos.",
+            "Permite que tu falta de interés te hable.",
+            "Pon tu atención en algo distinto.",
+            "Pregúntate si realmente deseas implicarte en ese proyecto.",
+            "No recibas lo que la vida te está trayendo si no estás seguro de poder sostenerlo.",
+            "Haz una pausa en tus estudios o en tu trabajo.",
+            "Deja atrás la fase inicial de aprendizaje y comienza a implicarte más en la práctica.",
+            "No siembres ahora un sueño. Las circunstancias no son las adecuadas.",
+            "Observa de quién es la voz que te dice que nada vale realmente la pena.",
+            "Descubre cómo lo haces para convencerte de que no eres capaz de aprender."
+        ]
+    },
+    "caballero_de_oros": {
+        "numero": "Caballero",
+        "nombre": "Caballero de Oros",
+        "normal": [
+            "Persevera hasta conseguir el resultado que deseas.",
+            "Cumple con tus responsabilidades a cabalidad.",
+            "Cuida de tu buena reputación.",
+            "Gánate la confianza de los demás demostrando tu alto nivel de compromiso.",
+            "Avanza sin prisa pero sin pausa.",
+            "Haz las cosas correctamente y tal como te lo han pedido.",
+            "No actúes por impulso ni abandones la dirección que has tomado.",
+            "No intentes maneras nuevas de enfrentar la situación.",
+            "Cree firmemente en lo que estás haciendo aún cuando los resultados tarden en llegar.",
+            "Ten mucha paciencia.",
+            "Lleva tu ayuda a quien la necesite, sobre todo de tipo práctico o material.",
+            "Ofrece un regalo significativo.",
+            "Cuida de lo que has sembrado y disfruta viéndolo crecer.",
+            "Enfócate, elimina todo lo que resulte insignificante y que sólo te quite tiempo y energía."
+        ],
+        "invertida": [
+            "Rompe un compromiso si ya no te hace sentido.",
+            "No sigas alimentando algo que no dará resultados.",
+            "Vuelve atrás y busca algo nuevo a qué apostar.",
+            "Desiste de tus esfuerzos.",
+            "Escucha la voz de tu propio aburrimiento.",
+            "Rompe tu rutina.",
+            "Tómate un descanso o unas vacaciones.",
+            "Reorganiza tu tiempo de acuerdo con nuevas prioridades que pueden estar surgiendo.",
+            "Reduce tus gastos al mínimo necesario.",
+            "Rechaza una oferta o tómate un tiempo para pensar en ello.",
+            "Actúa de manera rupturista, buscando la innovación.",
+            "Sorprende a los demás con una nueva conducta.",
+            "Suelta el resultado, acepta que este pueda ser distinto a lo que esperabas.",
+            "Toma en cuenta las señales que te indican que las cosas no avanzan.",
+            "Observa si existe una tendencia inconsciente a abandonar proyectos importantes, ya sea por comodidad o por miedo al éxito."
+        ]
+    },
+    "reina_de_oros": {
+        "numero": "Reina",
+        "nombre": "Reina de Oros",
+        "normal": [
+            "Cuida tu tiempo y tu espacio personal.",
+            "Atiende a las necesidades de tu cuerpo.",
+            "Pon tu bienestar en primer lugar. Sólo estando tú bien podrás nutrir a otras personas.",
+            "Alimenta a los demás con tu cariño y dedicación.",
+            "Crea un hogar hermoso y acogedor.",
+            "Enfócate en tu trabajo o en tus negocios.",
+            "Administra sabiamente tus recursos.",
+            "Actúa como una madre.",
+            "Enseña con el ejemplo.",
+            "Atesora y agradece todo lo que tienes.",
+            "Encuentra terrenos fértiles para sembrar tus sueños.",
+            "Enfrenta la situación con un espíritu práctico y realista.",
+            "Confía en tu talento y en tus capacidades.",
+            "Sé organizado y cumple con los objetivos que te propones.",
+            "Actúa como un jardinero, nutriendo y 'limpiando' constantemente.",
+            "Sé receptivo y mantente presente.",
+            "Busca el consejo de una mujer experta.",
+            "Si tu consulta se trata sobre una mujer, asígnale un rol importante en tu cotidianidad."
+        ],
+        "invertida": [
+            "No actúes como una madre.",
+            "Deja que los demás resuelvan sus desafíos por sí solos.",
+            "No te fuerces a sostener algo que no deseas sostener.",
+            "Permite que los otros encuentren sus propias fuentes de nutrición y bienestar.",
+            "Involúcrate en asuntos que te saquen de tus espacios conocidos.",
+            "Sé más egoísta.",
+            "Permítete algo de desorden.",
+            "Abandona ciertos estereotipos que te restringen.",
+            "No pretendas hacerlo todo a la perfección.",
+            "Sal de tu casa.",
+            "Haz un viaje hacia un lugar desconocido.",
+            "Busca nuevos intereses que te estimulen.",
+            "Observa si en el fondo estás esperando que otros provean para tus necesidades o solucionen tus problemas.",
+            "Si la pregunta tiene que ver con una mujer, no recurras a ella ni le des un lugar de importancia."
+        ]
+    },
+    "rey_de_oros": {
+        "numero": "Rey",
+        "nombre": "Rey de Oros",
+        "normal": [
+            "Toma plenamente el control de tus asuntos.",
+            "Sé un administrador riguroso y ordenado.",
+            "Da sentido a todo lo que has conseguido compartiéndolo con el mundo.",
+            "Consolida tu posición y busca un mayor crecimiento.",
+            "Actúa como un buen gerente.",
+            "Confía en tu experiencia y en tus capacidades.",
+            "Disfruta de todo lo que tienes.",
+            "Enfócate en tu trabajo, tus finanzas y todo lo que sea de orden práctico.",
+            "Ofrece tu respaldo a otras personas.",
+            "Sé un mentor para quien lo requiera.",
+            "Actúa como un padre cariñoso y responsable.",
+            "Demuéstrale a los demás que estás presente para ellos.",
+            "Busca el consejo de un hombre experimentado y consagrado.",
+            "Si la pregunta tiene que ver con un hombre, asígnale un rol importante en tu cotidianidad."
+        ],
+        "invertida": [
+            "No involucres tu tiempo ni tus recursos en el asunto.",
+            "No ofrezcas tu respaldo, sobre todo si se trata de tiempo o dinero.",
+            "Permite que los demás se busquen la vida por sí mismos.",
+            "No compartas lo que tienes, sobre todo si sientes que han abusado de tu generosidad.",
+            "No hagas ese gasto o esa inversión que tienes en mente.",
+            "Retírate o descansa de un rol gerencial o administrativo.",
+            "Enfócate más en tu mundo interior.",
+            "Ve más allá de lo material, conecta con lo que hay detrás de él.",
+            "No muestres lo que tienes, y sobre todo, no lo utilices para impresionar a otros ya que podría volverse en tu contra.",
+            "Si la consulta se trata de un hombre, procura independizarte de él.",
+            "Descubre en qué sentido estás actuando con egoísmo.",
+            "Observa si estás exponiéndote a peligros innecesarios."
+        ]
+    }
+}

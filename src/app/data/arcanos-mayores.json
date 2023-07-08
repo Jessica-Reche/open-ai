@@ -1,0 +1,536 @@
+{
+    "Arcanos": [
+        {
+            "numero": "1",
+            "nombre": "El Mago",
+            "normal": [
+                "Da inicio a la acción.",
+                "Enfócate en lo que realmente quieres.",
+                "Toma conciencia de todos tus recursos y adminístralos correctamente.",
+                "Da el sí, implícate.",
+                "Actúa con autonomía.",
+                "Comprométete con tus anhelos más profundos y verdaderos. Asegúrate de que tus objetivos sean tuyos y no impuestos por otros.",
+                "Honra, agradece y utiliza tus talentos.",
+                "Evita la pasividad.",
+                "Estás listo para iniciar algo importante, no te falles a ti mismo.",
+                "Expresa tu deseo o tu idea.",
+                "Motívate.",
+                "Hazte cargo.",
+                "Concentra tus energías, no te disperses.",
+                "Muestra el camino.",
+                "Enseña con el ejemplo."
+            ],
+            "invertida": [
+                "No actúes por ahora.",
+                "Revisa tus objetivos, tus planes y tu propósito.",
+                "Identifica los puntos débiles de tu estrategia.",
+                "Reúne más recursos e infórmate mejor.",
+                "Modera tu entusiasmo, ve más despacio.",
+                "No comuniques tu deseo o tu idea aún.",
+                "Pregúntate a ti mismo quién quieres llegar a ser en esta situación, asegúrate de que la respuesta sea auténtica.",
+                "Espera a que las condiciones mejoren.",
+                "Considera los efectos negativos de lo que estás pensando hacer, ¿a quienes afectarían y de qué manera?",
+                "Tómate un descanso."
+            ]
+        },
+        {
+            "numero": "2",
+            "nombre": "La Suma Sacerdotisa",
+            "normal": [
+                "Escucha tu intuición.",
+                "Presta atención a tus sueños y a las señales que te envía tu inconsciente.",
+                "Guarda silencio y espera.",
+                "No te precipites en tomar una decisión.",
+                "Confía en tu sabiduría interna.",
+                "Dedica tiempo a la introspección y a la meditación.",
+                "Busca la verdad detrás de las apariencias.",
+                "Mantén la calma y la paciencia.",
+                "Acepta la incertidumbre y deja que las cosas se desarrollen a su propio ritmo.",
+                "Reconoce y respeta tus límites.",
+                "Aprende a decir no."
+            ],
+            "invertida": [
+                "No ignores tus percepciones internas.",
+                "No te dejes llevar por las apariencias.",
+                "No te precipites en juzgar a los demás.",
+                "No te dejes influir por los prejuicios y las opiniones de los demás.",
+                "No te dejes llevar por las emociones negativas.",
+                "No te dejes llevar por la impaciencia.",
+                "No te dejes llevar por la inseguridad y la duda.",
+                "No te dejes llevar por la confusión y la falta de claridad.",
+                "No te dejes llevar por la indecisión y la procrastinación.",
+                "No te dejes llevar por la pasividad y la inacción."
+            ]
+        },
+        {
+            "numero": "3",
+            "nombre": "La Emperatriz",
+            "normal": [
+                "Sé generoso, entrega con alegría.",
+                "Comparte tu amor, cariño y ternura.",
+                "Sé acogedor.",
+                "Siente y expresa tu sensualidad y tu sexualidad.",
+                "Celebra el placer y la belleza.",
+                "Regálate el permiso para disfrutar intensamente de la Vida.",
+                "Descansa en la abundancia.",
+                "Cuida de lo estético en ti mismo, en tu espacio, en tus relaciones y en tus actividades.",
+                "Responde creativamente a la situación.",
+                "Acércate más a la naturaleza. Aprende de ella, permite que te nutra y que te sane.",
+                "Ocupa un lugar de autoridad en tu propia vida o en la situación.",
+                "Si tu consulta se relaciona con una mujer, sitúala en un lugar de importancia."
+            ],
+            "invertida": [
+                "No actúes como una madre frente a quienes no son tus hijos.",
+                "No te involucres sexualmente, o postérgalo hasta tener mayor seguridad.",
+                "Espera antes de comprometerte más, tómate tu tiempo.",
+                "Cuida tu dinero, no hagas ningún gasto innecesario.",
+                "Vuelve la atención a tu interior, evita distraerte con el brillo del mundo.",
+                "Nútrete a ti mismo.",
+                "Reduce tu vida social.",
+                "Revisa las estructuras de tu vida y pon orden en ellas.",
+                "No intentes soluciones novedosas ahora, apégate a lo establecido.",
+                "Si tu consulta se relaciona con una mujer, no la pongas en un lugar de importancia."
+            ]
+        },
+        {
+            "numero": "7",
+            "nombre": "El Carro",
+            "normal": [
+                "Define claramente lo que quieres lograr en esta situación y ponte en marcha.",
+                "Avanza hacia tu objetivo cuidando del equilibrio entre actividad y pasividad.",
+                "Toma las riendas del asunto.",
+                "Adéntrate en lo desconocido.",
+                "Sal de tu zona cómoda.",
+                "Constrúyete a ti mismo.",
+                "Toma el desafío con un espíritu aventurero.",
+                "Actúa como un ganador.",
+                "Cámbiate de lugar, desplázate hacia donde encuentres mejores condiciones.",
+                "Avanza con rapidez pero con cuidado.",
+                "Da el sí, involúcrate y sé valiente."
+            ],
+            "invertida": [
+                "Detente, no sigas avanzando.",
+                "Descansa.",
+                "Reconsidera la dirección que has tomado.",
+                "Revisa la manera en que has estado llevando el asunto en cuestión.",
+                "Revisa tus objetivos y evalúa si realmente te estás acercando a ellos.",
+                "Considera tomar un camino alternativo.",
+                "No aspires a grandes resultados en este momento.",
+                "Pon atención a lo inmediato, algo podría producir un desastre más adelante si sigues avanzando. Arréglalo ahora.",
+                "Analiza la forma en que tus logros podrían afectar a los demás o a otras áreas de tu vida."
+            ]
+        },
+        {
+            "numero": "8",
+            "nombre": "La Fuerza",
+            "normal": [
+                "Persevera.",
+                "Recurre a tu fuerza de voluntad.",
+                "Recuerda por qué es importante para ti conseguir lo que te has propuesto.",
+                "Apóyate en tus éxitos anteriores.",
+                "Domina tus impulsos, considera los efectos de lo que quieres decir o hacer.",
+                "Acoge tus emociones pero no te dejes llevar por ellas.",
+                "Fortalece tu carácter, elige tus respuestas en base a tus principios y no en base a tus condicionamientos.",
+                "Ten paciencia, el Universo trabaja a tu favor incluso aunque parezca que no es así.",
+                "Confía en ti mismo y en los procesos de la Vida.",
+                "Mantén un compromiso diario con tu ser auténtico.",
+                "Actúa con sobriedad.",
+                "Mantén firme tu posición."
+            ],
+            "invertida": [
+                "Permítete ser débil.",
+                "Reconoce, acepta y muestra tu vulnerabilidad.",
+                "Sé humilde, acepta que puedes estar equivocado y procura enmendar tus errores.",
+                "No utilices tu propia energía para sostener lo insostenible.",
+                "Deja que se manifiesten los puntos débiles de la situación para que puedas comprenderla mejor.",
+                "No fuerces un resultado.",
+                "Pide ayuda a personas competentes.",
+                "Suelta, relájate y desapégate."
+            ]
+        },
+        {
+            "numero": "9",
+            "nombre": "El Ermitaño",
+            "normal": [
+                "Reflexiona en profundidad.",
+                "Asume tu parte de responsabilidad al 100%.",
+                "Aplica una mirada crítica hacia la situación y también hacia ti mismo.",
+                "Detente, revisa tu pasado y aprende de él.",
+                "Busca el apoyo de una persona sabia y confiable.",
+                "Sé veraz.",
+                "Sé humilde.",
+                "Revisa tus metas y ve si están alineadas con tus verdaderos valores.",
+                "Actúa con calma y seriedad.",
+                "Domina tus impulsos y tus emociones.",
+                "Si quieres influir, predica con el ejemplo.",
+                "Si estás en un conflicto con otro, observa dentro de ti."
+            ],
+            "invertida": [
+                "Permítete equivocarte.",
+                "Enfrenta la situación con espontaneidad.",
+                "No sobre-analices.",
+                "No te hagas cargo, “lávate las manos”.",
+                "Comprende que en este caso la mayor parte de responsabilidad recae en otros, no en ti.",
+                "Sé más lúdico.",
+                "Disfruta despreocupadamente.",
+                "No permitas que tu pasado contamine tu presente y tu futuro."
+            ]
+        },
+        {
+            "numero": "10",
+            "nombre": "La Rueda de la Fortuna",
+            "normal": [
+                "Reconoce la oportunidad que se te está presentando y tómala.",
+                "Déjate llevar por los vientos de cambio que soplan. Están a tu favor.",
+                "Crece.",
+                "Sube al siguiente nivel.",
+                "Acepta lo que está sucediendo, estaba escrito en tu destino.",
+                "Busca condiciones que te sean más favorables.",
+                "Invierte en la situación, cree en ella.",
+                "Aprovecha el momento de crecimiento y abundancia, recuerda que todo es cíclico.",
+                "Aprovecha las buenas condiciones actuales y prepárate para cuando éstas declinen. Sé previsor.",
+                "Recuerda que la única constante es el cambio."
+            ],
+            "invertida": [
+                "Cierra el ciclo.",
+                "Deja de invertir en la situación.",
+                "Reduce tus expectativas por ahora.",
+                "Adáptate a lo que parece adverso en este momento, sabiendo que pronto vendrán nuevas oportunidades.",
+                "Practica el desapego, suelta lo que tengas que soltar.",
+                "Mantén la calma en medio de la tormenta.",
+                "Busca la quietud volviendo a tu centro."
+            ]
+        },
+        {
+            "numero": "12",
+            "nombre": "El Colgado",
+            "normal": [
+                "Acepta que no puedes influir directamente en la situación para cambiarla.",
+                "Entrégate a la experiencia y permite que ésta te muestre una verdad incómoda acerca de ti mismo.",
+                "Busca un punto de vista completamente diferente y registra lo que descubres desde allí.",
+                "Comprende que la vida te está transformando, déjate moldear por ella.",
+                "Prepárate para un gran salto de conciencia y un cambio de paradigma.",
+                "Sé humilde.",
+                "Una nueva versión de ti mismo se está gestando, no intentes escapar de la situación.",
+                "Espera con mucha paciencia y soltando el resultado."
+            ],
+            "invertida": [
+                "Despierta, ponte de pie, avanza.",
+                "Reconoce cómo la situación te ha transformado.",
+                "Reconoce cómo tus objetivos y valores han evolucionado.",
+                "Expresa tu nuevo punto de vista con prudencia y humildad.",
+                "Actúa desde una comprensión profunda y elevada (aunque suene contradictorio).",
+                "Agradece que la vida te haya liberado de viejas maneras de pensar y vive en consecuencia con ello.",
+                "Inspira a los demás con tus acciones y reflexiones.",
+                "El milagro es constante, cultiva un sentimiento de asombro existencial en tu día a día, reconoce que todo es sagrado, y vive desde esa consciencia.",
+                "Detecta si te estás resistiendo a atravesar un cambio necesario."
+            ]
+        },
+        {
+            "numero": "11",
+            "nombre": "La Justicia",
+            "normal": [
+                "Permite que tu verdad se manifieste dentro de ti, comprométete con ella y déjala actuar afuera para que ponga orden en tu vida.",
+                "Expresa tu opinión, defiende tu punto de vista.",
+                "Permite que los demás sepan quién eres, qué piensas y qué quieres.",
+                "Atiende a tus necesidades.",
+                "Pon cada cosa en la balanza, revisa cuánto pesa cada cosa.",
+                "Elimina lo que no te sirve.",
+                "Evita lo que no deseas.",
+                "Conserva lo que te resulta beneficioso.",
+                "Aleja lo que tienes demasiado encima, acerca lo que necesitas tener más próximo.",
+                "Consigue lo que te hace falta.",
+                "Establece y mantén un orden funcional en tu vida.",
+                "Reordena tus prioridades.",
+                "Sé realista.",
+                "Recurre a un juez o árbitro.",
+                "Pide consejo a alguien que no esté involucrado en la situación.",
+                "Piensa y actúa buscando una solución justa para todos."
+            ],
+            "invertida": [
+                "No expreses tu verdad ahora.",
+                "Acepta una situación incómoda o que sientes injusta. Tienes algo que aprender de ella.",
+                "Desarma el orden en que vivías para generar un orden distinto. En el intertanto, comprende que el caos es lo que antecede al nuevo orden.",
+                "Adáptate por ahora a lo que no va contigo. Esto te permitirá desarrollar nuevas capacidades.",
+                "Sé flexible.",
+                "Revísate a fondo, descubre de qué manera te engañas a ti mismo y a los demás.",
+                "No recurras a un juez o un árbitro por ahora. Saldrías desfavorecido."
+            ]
+        },
+        {
+            "numero": "13",
+            "nombre": "La Muerte",
+            "normal": [
+                "Acepta el cambio que viene aunque te parezca aterrador.",
+                "Deja atrás lo que ya no sirve para la nueva versión de ti mismo que se está gestando.Deja atrás lo que ya no sirve para la nueva versión de ti mismo que se está gestando.",
+                "Entra en lo desconocido.",
+                "No mires hacia atrás.",
+                "Deshazte de viejas ataduras y limitaciones.",
+                "Comprométete con tu evolución, no con tu comodidad.",
+                "Despeja el terreno para lo nuevo que está por venir.",
+                "Ábrete a una nueva forma de entender la realidad aunque esto amenace tu sentido de identidad.",
+                "Deja que tu antiguo “yo” muera.",
+                "Entrégate al flujo evolutivo de la Vida."
+            ],
+            "invertida": [
+                "Mantén las cosas como están por ahora.",
+                "Evita hacer cambios radicales en este momento.",
+                "No tomes decisiones drásticas.",
+                "Evita cualquier situación peligrosa o amenazante.",
+                "Descubre qué es lo que te está impidiendo avanzar y resuélvelo.",
+                "Si estás viviendo un patrón de vida repetitivo, adéntrate en él hasta comprender lo que te está mostrando acerca de ti mismo."
+            ]
+        },
+        {
+            "numero": "14",
+            "nombre": "La Templanza",
+            "normal": [
+                "Encuentra el punto medio.",
+                "Actúa con cuidado, moderación, discreción y paciencia.",
+                "Mantén tus más altos propósitos en mente y guíate por ellos.",
+                "Comunícate con efectividad.",
+                "Procura comprender antes que ser comprendido.",
+                "Exprésate en un lenguaje que el otro pueda entender.",
+                "Asóciate, intégrate a un equipo.",
+                "Identifica los puntos en común entre tú y los demás.",
+                "Apóyate en quienes te resulten complementarios.",
+                "Revisa constantemente la armonía entre los aspectos particulares y los aspectos generales de la situación.",
+                "Atiende por igual a las necesidades de cada miembro del grupo.",
+                "Fortalece las partes para fortalecer al todo.",
+                "Equilibra los opuestos de manera dinámica.",
+                "Evita la rigidez en la asignación de roles.",
+                "Avanza sin prisa y sin pausa.",
+                "Encuentra el sentido más trascendental de lo que estás haciendo.",
+                "Demuestra que eres confiable.",
+                "Evita actuar por impulso o reaccionar de forma destructiva.",
+                "Fluye."
+            ],
+            "invertida": [
+                "No sostengas la armonía a expensas de tu bienestar.",
+                "Disuelve o anula un vínculo.",
+                "No comuniques.",
+                "Revisa tu propósito de vida.",
+                "Recuerda no perseguir un objeto: persigue el valor que dicho objeto te traería.",
+                "Aléjate de lugares y personas que no convibran contigo.",
+                "Permite que tus impulsos te hablen.",
+                "Desarma, desarticula, desmonta.",
+                "Escucha tu sensación de inquietud, descubre lo que hay detrás de ella.",
+                "Observa de qué maneras te auto-saboteas.",
+                "Detecta un desequilibrio de base que necesitas corregir."
+            ]
+        },
+        {
+            "numero": "15",
+            "nombre": "El Diablo",
+            "normal": [
+                "Experimenta la dependencia y la limitación. Acéptala para comprender cuáles son tus miedos y debilidades.",
+                "Deja que tus instintos básicos te muestren el camino. Hay gran sabiduría en ellos.",
+                "Acepta el no tener el control sobre la situación.",
+                "Quédate dónde estás por ahora, aunque no te haga feliz. Tu libertad se está preparando dentro de ti.",
+                "Percibe tu miedo y acéptalo, puede ser que se trate de un miedo útil y razonable.",
+                "Disfruta de los aspectos más animales de tu ser.",
+                "Descubre a qué eres adicto.",
+                "Descubre de qué forma vendes tu alma a cambio de seguridad."
+            ],
+            "invertida": [
+                "Enfrenta tus miedos a la cara, conversa con ellos para comprenderlos a fondo.",
+                "Rompe decididamente con la dependencia y la sumisión.",
+                "Actúa a tu favor, exige o reclama lo que te corresponde por derecho propio.",
+                "Ponte al centro, ponte en primer lugar.",
+                "Elimina de una vez tus hábitos autodestructivos.",
+                "Reconoce a tu enemigo como tal y no negocies con él ni le des explicaciones.",
+                "Comprende que existen mejores opciones para ti y ve a por ellas con valentía.",
+                "No permitas que tus instintos dominen tu vida: actúa con sensatez.",
+                "Considera los costos de seguir viviendo bajo amenaza.",
+                "Rechaza con fuerza cualquier chantaje, extorsión o manipulación.",
+                "Hazte fuerte y hazte cargo. La responsabilidad es tuya.",
+                "Libérate de cualquier deuda, de cualquier tipo, que estés cargando.",
+                "Descubre cómo lo más nefasto te ha ayudado a desarrollar tus mayores fortalezas."
+            ]
+        },
+        {
+            "numero": "16",
+            "nombre": "La Torre",
+            "normal": [
+                "Permite que la situación se muestre tal como es. Abre los ojos de una vez.",
+                "Deja caer tu máscara y tu armadura.",
+                "Acepta tu vulnerabilidad.",
+                "Sal de tu zona cómoda, comprende que quedarte allí te está limitando.",
+                "Deja que caiga lo que tenga que caer.",
+                "Permite que la verdad se muestre y te libere.",
+                "Sé tan veraz como puedas, aunque sea doloroso para ti o para alguien más.",
+                "Rompe con lo establecido.",
+                "Deja de sostener lo falso.",
+                "Acepta lo que estás viviendo, no te resistas. Se trata de una liberación aunque ahora no puedas verlo así.",
+                "Confía en la Vida, no te aferres a nada en este momento, excepto a tu propio ser.",
+                "Sé flexible, adaptable y fluido.",
+                "Si tienes miedo, avanza con miedo. Si sientes rabia o tristeza, abrázalas y sigue adelante."
+            ],
+            "invertida": [
+                "No actúes por impulso ni por reacción.",
+                "No es momento para hacer cambios drásticos.",
+                "Guarda las apariencias por ahora.",
+                "Prepara bien tu escape antes de ejecutarlo.",
+                "Evita el conflicto y el peligro.",
+                "No pongas el dedo en la llaga.",
+                "Mantén un perfil bajo.",
+                "Actúa con tranquilidad, no alarmes ni incordies al resto.",
+                "No expongas tu verdad en esta situación. Podría irse en tu contra.",
+                "Descubre de qué manera te estás negando a ser liberado y por qué."
+            ]
+        },
+        {
+            "numero": "17",
+            "nombre": "La Estrella",
+            "normal": [
+                "Mantén una consciencia elevada.",
+                "Reconoce tu conexión con el Todo.",
+                "Sigue adelante, vas por buen camino.",
+                "Confía en las señales que estás recibiendo.",
+                "Sé tremendamente optimista.",
+                "Sueña en grande, aspira a un sueño que haga vibrar tu alma.",
+                "Sé transparente e inocente.",
+                "Sé cómo un bálsamo para otros. Entrega tu amor, tu comprensión y tu visión positiva de las cosas.",
+                "Sana tu alma y tu cuerpo.",
+                "Reconcíliate con tu pasado y tu presente.",
+                "Resignifica cualquier experiencia dolorosa que hayas tenido para que trabaje a tu favor."
+            ],
+            "invertida": [
+                "Baja tus expectativas.",
+                "Acepta que las cosas no sean tal como tú quisieras.",
+                "Oculta tu luz, no te expongas.",
+                "Enfrenta cualquier dificultad que tengas con un espíritu práctico y realista.",
+                "No emprendas grandes cosas por ahora.",
+                "Trabaja en lo pequeño.",
+                "Permítete sentirte triste, enojado o asustado.",
+                "Adáptate a un entorno o situación que no son de tu total agrado.",
+                "Recuerda que la vida está hecha de altibajos. No desesperes.",
+                "Descubre qué te está desanimando."
+            ]
+        },
+        {
+            "numero": "18",
+            "nombre": "La Luna",
+            "normal": [
+                "Toma muy en cuenta tus emociones y estados de ánimo.",
+                "Sumérgete.",
+                "Escucha tu intuición.",
+                "Registra tus sueños.",
+                "Entra en el silencio, practica la meditación.",
+                "Conversa con tus miedos, procura comprenderlos a fondo sin ponerles juicio.",
+                "Considera el mensaje que tu tristeza quiere entregarte.",
+                "Indaga en tu pasado, ponle nombre a tus fantasmas.",
+                "Enfréntate a tu sombra.",
+                "Reconoce y acepta tus contradicciones internas.",
+                "Indaga en lo que permanece oculto.",
+                "Siente más y piensa menos.",
+                "No explicites tus verdaderas intenciones o sentimientos."
+            ],
+            "invertida": [
+                "Avanza hacia la luz y la claridad.",
+                "Expresa lo que tienes dentro, no importa si es algo poco grato.",
+                "Rompe el silencio.",
+                "Descorre un velo.",
+                "Aclara ambigüedades y malentendidos.",
+                "Exige tu derecho a conocer verdad.",
+                "Topa fondo e impúlsate hacia la superficie.",
+                "Deja atrás cualquier cosa que te entristezca.",
+                "Supera tus miedos, actúa a pesar de ellos.",
+                "Rompe decididamente con la melancolía.",
+                "Registra todo lo aprendido durante los tiempos difíciles."
+            ]
+        },
+        {
+            "numero": "19",
+            "nombre": "El Sol",
+            "normal": [
+                "Ponte al centro de tu vida, toma un rol protagónico.",
+                "Conecta con tu pasión y vive desde ella.",
+                "Exprésate en tu ser único con inocencia y libertad.",
+                "Persigue incansablemente aquello que te nutre y te hace crecer.",
+                "Involúcrate activamente y da lo mejor de ti.",
+                "Ilumina a otros con tu claridad mental y tu optimismo.",
+                "Sal al mundo, conecta con otros.",
+                "Muestra tu verdad.",
+                "Celebra la Vida.",
+                "Mantente activo.",
+                "Descubre la belleza en cada situación.",
+                "Siéntete orgulloso de ser quien eres.",
+                "Ofrece tu calor y comparte tu energía."
+            ],
+            "invertida": [
+                "Adáptate a una situación menos estimulante de lo que quisieras.",
+                "Recuerda que todo tiene ciclos. Ahora estás como en un invierno.",
+                "Baja tus expectativas.",
+                "Prepárate para un desarrollo que vendrá más adelante.",
+                "Vela tu luz, procura pasar desapercibido.",
+                "No reveles tus propósitos ni tu verdadera forma de pensar.",
+                "Modera tu entrega.",
+                "No ilusiones a otros en vano.",
+                "No te juegues el todo por el todo.",
+                "Permite que la luz de los demás también brille.",
+                "No te pongas al centro, es momento para que otros ocupen ese sitio.",
+                "Controla tu entusiasmo, puede haber peligros ocultos.",
+                "Descubre de qué manera te estás reprimiendo."
+            ]
+        },
+        {
+            "numero": "20",
+            "nombre": "El Juicio",
+            "normal": [
+                "Da un gran salto hacia lo nuevo.",
+                "Deja atrás las limitaciones.",
+                "Sal de tu zona de confort.",
+                "Escucha el llamado de tu vocación, tu misión o tu propósito de vida.",
+                "Permite que una nueva versión de ti mismo se despliegue por completo.",
+                "Avanza hacia una nueva manera de vivir, mucho más plena.",
+                "Comprende tu pasado, agradécele y déjalo ir.",
+                "Discúlpate o acepta una disculpa.",
+                "Recibe una bendición con gratitud.",
+                "Trabaja por una reconciliación."
+            ],
+            "invertida": [
+                "Resuelve tus asuntos pendientes antes de avanzar.",
+                "Permanece por ahora en tus espacios conocidos.",
+                "No expongas aún lo que sabes, deja que las cosas maduren un poco más.",
+                "Descubre qué es lo que realmente te está limitando. Pon especial atención a tus creencias y suposiciones.",
+                "Actúa de manera habitual aunque sepas que se avecina un cambio.",
+                "Pregúntate qué ganas y qué pierdes al quedarte en tu zona cómoda, y qué ganarías y perderías si salieras de ella.",
+                "Descubre la causa real de un conflicto.",
+                "Indaga más profundamente en tu pasado para comprender mejor tu presente."
+            ]
+        },
+        {
+            "numero": "21",
+            "nombre": "El Mundo",
+            "normal": [
+                "Sueña en grande, aspira a lo mejor de lo mejor.",
+                "Da el éxito por sentado.",
+                "Actúa de manera íntegra e impecable.",
+                "Atiende a todos los aspectos de la situación, no solo algunas de sus partes.",
+                "Da lo mejor de ti, persigue la excelencia.",
+                "Mantente fiel a tus más altas aspiraciones, no te conformes con menos.",
+                "Actúa con libertad.",
+                "Resuelve con autonomía.",
+                "Valora lo positivo y agradece.",
+                "Confía en que la Vida te dará todo lo que necesitas.",
+                "No pienses en el problema sino en el resultado que quieres y en cómo obtenerlo.",
+                "Entrégate por completo a la experiencia.",
+                "Sube al siguiente nivel.",
+                "Integra los aspectos femeninos y masculinos de tu ser.",
+                "Integra los aspectos sutiles y densos de tu ser."
+            ],
+            "invertida": [
+                "Acepta lo imperfecto o incompleto de la situación.",
+                "Descubre cuál es el bloqueo o la falta.",
+                "Resuelve tu pasado antes de seguir avanzando.",
+                "Mantén un bajo perfil, procura no opacar a otros ni llamar la atención.",
+                "No des el éxito por sentado, aún queda trabajo por hacer.",
+                "Modera tus expectativas.",
+                "No avances, quédate dónde estás.",
+                "Implícate parcialmente.",
+                "Descubre de qué manera te saboteas en el mejor momento."
+            ]
+        }
+    ]
+}
