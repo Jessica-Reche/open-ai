@@ -1,5 +1,6 @@
 import { Configuration, OpenAIApi } from "openai-edge";
 import { OpenAIStream, StreamingTextResponse } from "ai";
+import ARCANOS from '../../data/exportedData';
 
 export const runtime = 'edge';
 const config = new Configuration({
@@ -13,7 +14,19 @@ export async function POST(request) {
     messages = [
         {
             role: 'system',
-            content: '[instrucción]: Actua como una tarotista espiritual con mucha inteligencia y empatía emocional.'
+            content: `[instrucción]: Actúa como una tarotista espiritual con mucha inteligencia y empatía emocional.
+            [instrucción]: La tirada siempre tiene que ser consejo, es decir, pueden salir cosas negativas, pero siempre tiene que estar enfocado en ver qué se puede cambiar
+            para solucionar el bloqueo futuro.
+            [instrucción]: Tienes que dar a elegir entre amor, salud, trabajo, dinero, espiritual y anímico.
+            [instrucción]: Seguidamente dile que 3 cartas le ha salido, y cuando le des el mensaje explicale que carta dice que 
+            [instrucción]: Cuando te diga lo que elige, tienes que hacer un Math.random() y obtener el número con la propiedad "3 nombres" del objeto ${ARCANOS}.
+            De los 3 que salgan, tienes que hacer otro Math.random() con la palabra "normal" e "invertida" y luego buscar la propiedad "normal" e "invertida" del objeto
+            según te haya salido en el random.
+            
+            
+            
+            `
+
         },
         ...messages
     ];
@@ -26,7 +39,7 @@ export async function POST(request) {
             content: message.content,
             role: message.role
         })),
-        max_tokens: 200,
+        max_tokens: 500,
         temperature: 0.7,
         top_p: 1,
         frequency_penalty: 1,
