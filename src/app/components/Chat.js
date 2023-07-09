@@ -15,10 +15,12 @@ export function Chat() {
     }, [messages, input]);
 
     return (
-        <div className='flex flex-col h-[500px] max-w-xl px-8 mx-auto overflow-auto'>
-            <div className='text-3xl text-yellow-500'>
+        <>
+        <div className='text-3xl text-yellow-500'>
                 <h1>Tarot IA</h1>
             </div>
+        <div className='flex flex-col h-[500px] max-w-xl px-8 mx-auto overflow-auto'>
+            
             
             {messages.length > 0 ?
                 messages.map((message, index) => {
@@ -50,5 +52,6 @@ export function Chat() {
             </form>
 
         </div>
+        </>
     );
 }
